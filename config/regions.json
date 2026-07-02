@@ -1,0 +1,562 @@
+{
+  "_comment": "수집 대상 '시' 단위 정의. region 키로 CLI에서 선택합니다. 코드 체계가 소스마다 다르니 주의: sigungu.code=국토부 실거래가용 법정동 시군구코드(LAWD), sgis_codes=SGIS 시군구코드(행안부와 다름, addr/stage API로 조회), adong_codes=상가정보/소상공인365용 행안부 행정동코드(10자리). adong_codes 를 비우면 SGIS stage 로 자동 조회를 시도하지만 코드 체계가 달라 정확하지 않을 수 있으니 가능하면 직접 채우세요.",
+  "regions": {
+    "gangnam": {
+      "name": "서울특별시 강남구",
+      "sido_code": "11",
+      "sgis_adm_cd": "11230",
+      "sigungu": [
+        {
+          "code": "11680",
+          "name": "서울 강남구"
+        }
+      ],
+      "sgis_codes": [
+        "11230"
+      ],
+      "adong_codes": []
+    },
+    "ansan": {
+      "name": "경기도 안산시",
+      "sido_code": "41",
+      "sgis_adm_cd": "31092",
+      "sigungu": [
+        {
+          "code": "41273",
+          "name": "안산시 단원구"
+        },
+        {
+          "code": "41271",
+          "name": "안산시 상록구"
+        }
+      ],
+      "sgis_codes": [
+        "31092",
+        "31091"
+      ],
+      "adong_codes": []
+    },
+    "anseong": {
+      "name": "경기도 안성시",
+      "sido_code": "41",
+      "sgis_adm_cd": "31220",
+      "sigungu": [
+        {
+          "code": "41550",
+          "name": "안성시"
+        }
+      ],
+      "sgis_codes": [
+        "31220"
+      ],
+      "adong_codes": []
+    },
+    "anyang": {
+      "name": "경기도 안양시",
+      "sido_code": "41",
+      "sgis_adm_cd": "31042",
+      "sigungu": [
+        {
+          "code": "41173",
+          "name": "안양시 동안구"
+        },
+        {
+          "code": "41171",
+          "name": "안양시 만안구"
+        }
+      ],
+      "sgis_codes": [
+        "31042",
+        "31041"
+      ],
+      "adong_codes": []
+    },
+    "bucheon": {
+      "name": "경기도 부천시",
+      "sido_code": "41",
+      "sgis_adm_cd": "31052",
+      "sigungu": [
+        {
+          "code": "41192",
+          "name": "부천시 원미구"
+        },
+        {
+          "code": "41194",
+          "name": "부천시 소사구"
+        },
+        {
+          "code": "41196",
+          "name": "부천시 오정구"
+        }
+      ],
+      "sgis_codes": [
+        "31052",
+        "31053",
+        "31051"
+      ],
+      "adong_codes": []
+    },
+    "dongducheon": {
+      "name": "경기도 동두천시",
+      "sido_code": "41",
+      "sgis_adm_cd": "31080",
+      "sigungu": [
+        {
+          "code": "41250",
+          "name": "동두천시"
+        }
+      ],
+      "sgis_codes": [
+        "31080"
+      ],
+      "adong_codes": []
+    },
+    "gapyeong": {
+      "name": "경기도 가평군",
+      "sido_code": "41",
+      "sgis_adm_cd": "31570",
+      "sigungu": [
+        {
+          "code": "41820",
+          "name": "가평군"
+        }
+      ],
+      "sgis_codes": [
+        "31570"
+      ],
+      "adong_codes": []
+    },
+    "gimpo": {
+      "name": "경기도 김포시",
+      "sido_code": "41",
+      "sgis_adm_cd": "31230",
+      "sigungu": [
+        {
+          "code": "41570",
+          "name": "김포시"
+        }
+      ],
+      "sgis_codes": [
+        "31230"
+      ],
+      "adong_codes": []
+    },
+    "goyang": {
+      "name": "경기도 고양시",
+      "sido_code": "41",
+      "sgis_adm_cd": "31101",
+      "sigungu": [
+        {
+          "code": "41281",
+          "name": "고양시 덕양구"
+        },
+        {
+          "code": "41285",
+          "name": "고양시 일산동구"
+        },
+        {
+          "code": "41287",
+          "name": "고양시 일산서구"
+        }
+      ],
+      "sgis_codes": [
+        "31101",
+        "31103",
+        "31104"
+      ],
+      "adong_codes": []
+    },
+    "gunpo": {
+      "name": "경기도 군포시",
+      "sido_code": "41",
+      "sgis_adm_cd": "31160",
+      "sigungu": [
+        {
+          "code": "41410",
+          "name": "군포시"
+        }
+      ],
+      "sgis_codes": [
+        "31160"
+      ],
+      "adong_codes": []
+    },
+    "guri": {
+      "name": "경기도 구리시",
+      "sido_code": "41",
+      "sgis_adm_cd": "31120",
+      "sigungu": [
+        {
+          "code": "41310",
+          "name": "구리시"
+        }
+      ],
+      "sgis_codes": [
+        "31120"
+      ],
+      "adong_codes": []
+    },
+    "gwacheon": {
+      "name": "경기도 과천시",
+      "sido_code": "41",
+      "sgis_adm_cd": "31110",
+      "sigungu": [
+        {
+          "code": "41290",
+          "name": "과천시"
+        }
+      ],
+      "sgis_codes": [
+        "31110"
+      ],
+      "adong_codes": []
+    },
+    "gwangju_gg": {
+      "name": "경기도 광주시",
+      "sido_code": "41",
+      "sgis_adm_cd": "31250",
+      "sigungu": [
+        {
+          "code": "41610",
+          "name": "광주시"
+        }
+      ],
+      "sgis_codes": [
+        "31250"
+      ],
+      "adong_codes": []
+    },
+    "gwangmyeong": {
+      "name": "경기도 광명시",
+      "sido_code": "41",
+      "sgis_adm_cd": "31060",
+      "sigungu": [
+        {
+          "code": "41210",
+          "name": "광명시"
+        }
+      ],
+      "sgis_codes": [
+        "31060"
+      ],
+      "adong_codes": []
+    },
+    "hanam": {
+      "name": "경기도 하남시",
+      "sido_code": "41",
+      "sgis_adm_cd": "31180",
+      "sigungu": [
+        {
+          "code": "41450",
+          "name": "하남시"
+        }
+      ],
+      "sgis_codes": [
+        "31180"
+      ],
+      "adong_codes": []
+    },
+    "hwaseong": {
+      "name": "경기도 화성시",
+      "sido_code": "41",
+      "sgis_adm_cd": "31240",
+      "sigungu": [
+        {
+          "code": "41591",
+          "name": "화성시 만세구"
+        },
+        {
+          "code": "41593",
+          "name": "화성시 효행구"
+        },
+        {
+          "code": "41595",
+          "name": "화성시 병점구"
+        },
+        {
+          "code": "41597",
+          "name": "화성시 동탄구"
+        }
+      ],
+      "sgis_codes": [
+        "31240"
+      ],
+      "adong_codes": []
+    },
+    "icheon": {
+      "name": "경기도 이천시",
+      "sido_code": "41",
+      "sgis_adm_cd": "31210",
+      "sigungu": [
+        {
+          "code": "41500",
+          "name": "이천시"
+        }
+      ],
+      "sgis_codes": [
+        "31210"
+      ],
+      "adong_codes": []
+    },
+    "namyangju": {
+      "name": "경기도 남양주시",
+      "sido_code": "41",
+      "sgis_adm_cd": "31130",
+      "sigungu": [
+        {
+          "code": "41360",
+          "name": "남양주시"
+        }
+      ],
+      "sgis_codes": [
+        "31130"
+      ],
+      "adong_codes": []
+    },
+    "osan": {
+      "name": "경기도 오산시",
+      "sido_code": "41",
+      "sgis_adm_cd": "31140",
+      "sigungu": [
+        {
+          "code": "41370",
+          "name": "오산시"
+        }
+      ],
+      "sgis_codes": [
+        "31140"
+      ],
+      "adong_codes": []
+    },
+    "paju": {
+      "name": "경기도 파주시",
+      "sido_code": "41",
+      "sgis_adm_cd": "31200",
+      "sigungu": [
+        {
+          "code": "41480",
+          "name": "파주시"
+        }
+      ],
+      "sgis_codes": [
+        "31200"
+      ],
+      "adong_codes": []
+    },
+    "pocheon": {
+      "name": "경기도 포천시",
+      "sido_code": "41",
+      "sgis_adm_cd": "31270",
+      "sigungu": [
+        {
+          "code": "41650",
+          "name": "포천시"
+        }
+      ],
+      "sgis_codes": [
+        "31270"
+      ],
+      "adong_codes": []
+    },
+    "pyeongtaek": {
+      "name": "경기도 평택시",
+      "sido_code": "41",
+      "sgis_adm_cd": "31070",
+      "sigungu": [
+        {
+          "code": "41220",
+          "name": "평택시"
+        }
+      ],
+      "sgis_codes": [
+        "31070"
+      ],
+      "adong_codes": []
+    },
+    "seongnam": {
+      "name": "경기도 성남시",
+      "sido_code": "41",
+      "sgis_adm_cd": "31023",
+      "sigungu": [
+        {
+          "code": "41135",
+          "name": "성남시 분당구"
+        },
+        {
+          "code": "41131",
+          "name": "성남시 수정구"
+        },
+        {
+          "code": "41133",
+          "name": "성남시 중원구"
+        }
+      ],
+      "sgis_codes": [
+        "31023",
+        "31021",
+        "31022"
+      ],
+      "adong_codes": []
+    },
+    "siheung": {
+      "name": "경기도 시흥시",
+      "sido_code": "41",
+      "sgis_adm_cd": "31150",
+      "sigungu": [
+        {
+          "code": "41390",
+          "name": "시흥시"
+        }
+      ],
+      "sgis_codes": [
+        "31150"
+      ],
+      "adong_codes": []
+    },
+    "suwon": {
+      "name": "경기도 수원시",
+      "sido_code": "41",
+      "sgis_adm_cd": "31012",
+      "sigungu": [
+        {
+          "code": "41113",
+          "name": "수원시 권선구"
+        },
+        {
+          "code": "41117",
+          "name": "수원시 영통구"
+        },
+        {
+          "code": "41111",
+          "name": "수원시 장안구"
+        },
+        {
+          "code": "41115",
+          "name": "수원시 팔달구"
+        }
+      ],
+      "sgis_codes": [
+        "31012",
+        "31014",
+        "31011",
+        "31013"
+      ],
+      "adong_codes": []
+    },
+    "uijeongbu": {
+      "name": "경기도 의정부시",
+      "sido_code": "41",
+      "sgis_adm_cd": "31030",
+      "sigungu": [
+        {
+          "code": "41150",
+          "name": "의정부시"
+        }
+      ],
+      "sgis_codes": [
+        "31030"
+      ],
+      "adong_codes": []
+    },
+    "uiwang": {
+      "name": "경기도 의왕시",
+      "sido_code": "41",
+      "sgis_adm_cd": "31170",
+      "sigungu": [
+        {
+          "code": "41430",
+          "name": "의왕시"
+        }
+      ],
+      "sgis_codes": [
+        "31170"
+      ],
+      "adong_codes": []
+    },
+    "yangju": {
+      "name": "경기도 양주시",
+      "sido_code": "41",
+      "sgis_adm_cd": "31260",
+      "sigungu": [
+        {
+          "code": "41630",
+          "name": "양주시"
+        }
+      ],
+      "sgis_codes": [
+        "31260"
+      ],
+      "adong_codes": []
+    },
+    "yangpyeong": {
+      "name": "경기도 양평군",
+      "sido_code": "41",
+      "sgis_adm_cd": "31580",
+      "sigungu": [
+        {
+          "code": "41830",
+          "name": "양평군"
+        }
+      ],
+      "sgis_codes": [
+        "31580"
+      ],
+      "adong_codes": []
+    },
+    "yeoju": {
+      "name": "경기도 여주시",
+      "sido_code": "41",
+      "sgis_adm_cd": "31280",
+      "sigungu": [
+        {
+          "code": "41670",
+          "name": "여주시"
+        }
+      ],
+      "sgis_codes": [
+        "31280"
+      ],
+      "adong_codes": []
+    },
+    "yeoncheon": {
+      "name": "경기도 연천군",
+      "sido_code": "41",
+      "sgis_adm_cd": "31550",
+      "sigungu": [
+        {
+          "code": "41800",
+          "name": "연천군"
+        }
+      ],
+      "sgis_codes": [
+        "31550"
+      ],
+      "adong_codes": []
+    },
+    "yongin": {
+      "name": "경기도 용인시",
+      "sido_code": "41",
+      "sgis_adm_cd": "31192",
+      "sigungu": [
+        {
+          "code": "41463",
+          "name": "용인시 기흥구"
+        },
+        {
+          "code": "41465",
+          "name": "용인시 수지구"
+        },
+        {
+          "code": "41461",
+          "name": "용인시 처인구"
+        }
+      ],
+      "sgis_codes": [
+        "31192",
+        "31193",
+        "31191"
+      ],
+      "adong_codes": []
+    }
+  }
+}

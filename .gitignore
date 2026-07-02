@@ -1,0 +1,30 @@
+# 환경/비밀
+.env
+
+# 데이터 산출물
+data/raw/
+data/exports/
+*.sqlite
+*.sqlite3
+*.db
+*.sqlite-wal
+*.sqlite-shm
+data/.fuse_hidden*
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.uv/
+*.egg-info/
+dist/
+build/
+
+# OS / 에디터
+.DS_Store
+.idea/
+.vscode/
