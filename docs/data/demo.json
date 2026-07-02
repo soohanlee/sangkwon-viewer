@@ -1,12 +1,13 @@
 {
  "generated_at": "2026-07-02",
+ "scope": "동탄 · 화성시 · 오산시",
  "tables": [
   {
    "name": "stores",
    "label": "상가업소",
    "icon": "🏪",
    "source": "소상공인공단 상가정보 API",
-   "total": 740793,
+   "total": 72227,
    "sample_n": 40,
    "columns": [
     {
@@ -40,364 +41,364 @@
    ],
    "rows": [
     {
-     "bizes_nm": "#",
-     "inds_lcls_nm": "수리·개인",
-     "inds_mcls_nm": "욕탕·신체관리",
-     "inds_scls_nm": "마사지/안마",
-     "adong_nm": "대부동",
-     "road_addr": "경기도 안산시 단원구 왕두재길 93",
-     "region_key": "ansan"
-    },
-    {
-     "bizes_nm": "#",
-     "inds_lcls_nm": "소매",
-     "inds_mcls_nm": "섬유·의복·신발 소매",
-     "inds_scls_nm": "기타 의류 소매업",
-     "adong_nm": "심곡2동",
-     "road_addr": "경기도 부천시 원미구 부천로 1-1",
-     "region_key": "bucheon"
-    },
-    {
-     "bizes_nm": "#넌우아해",
-     "inds_lcls_nm": "수리·개인",
-     "inds_mcls_nm": "이용·미용",
-     "inds_scls_nm": "미용실",
-     "adong_nm": "금광2동",
-     "road_addr": "경기도 성남시 중원구 광명로395번길 2",
-     "region_key": "성남시"
-    },
-    {
-     "bizes_nm": "&QUEENTER특수방역사업단",
-     "inds_lcls_nm": "시설관리·임대",
-     "inds_mcls_nm": "청소·방제",
-     "inds_scls_nm": "소독, 구충 및 방제 서비스업",
-     "adong_nm": "장기동",
-     "road_addr": "경기도 김포시 태장로 741",
-     "region_key": "gimpo"
-    },
-    {
-     "bizes_nm": "&도자기",
-     "inds_lcls_nm": "예술·스포츠",
-     "inds_mcls_nm": "유원지·오락",
-     "inds_scls_nm": "기타 오락관련 서비스업",
-     "adong_nm": "춘의동",
-     "road_addr": "경기도 부천시 원미구 길주로363번길 23",
-     "region_key": "bucheon"
-    },
-    {
-     "bizes_nm": "&마왕푸드",
-     "inds_lcls_nm": "음식",
-     "inds_mcls_nm": "한식",
-     "inds_scls_nm": "돼지고기 구이/찜",
-     "adong_nm": "호원2동",
-     "road_addr": "경기도 의정부시 회룡로105번길 30",
-     "region_key": "uijeongbu"
-    },
-    {
-     "bizes_nm": "&얼큰뼈해장국",
-     "inds_lcls_nm": "음식",
-     "inds_mcls_nm": "한식",
-     "inds_scls_nm": "백반/한정식",
-     "adong_nm": "송탄동",
-     "road_addr": "경기도 평택시 방여울로 11",
-     "region_key": "pyeongtaek"
-    },
-    {
-     "bizes_nm": "'정'참치",
-     "inds_lcls_nm": "음식",
-     "inds_mcls_nm": "일식",
-     "inds_scls_nm": "일식 회/초밥",
-     "adong_nm": "창전동",
-     "road_addr": "경기도 이천시 중리천로 109-1",
-     "region_key": "icheon"
-    },
-    {
-     "bizes_nm": "(#)경기누리맘",
-     "inds_lcls_nm": "과학·기술",
-     "inds_mcls_nm": "기타 전문 과학",
-     "inds_scls_nm": "번역/통역 서비스업",
-     "adong_nm": "광교1동",
-     "road_addr": "경기도 수원시 영통구 대학로 16",
-     "region_key": "수원시"
-    },
-    {
-     "bizes_nm": "(#)금쪽이케어 안양군포의왕과천",
-     "inds_lcls_nm": "과학·기술",
-     "inds_mcls_nm": "기타 전문 과학",
-     "inds_scls_nm": "번역/통역 서비스업",
-     "adong_nm": "부림동",
-     "road_addr": "경기도 안양시 동안구 부림로 121",
-     "region_key": "anyang"
-    },
-    {
-     "bizes_nm": "((경기수원))아가봄",
-     "inds_lcls_nm": "과학·기술",
-     "inds_mcls_nm": "기타 전문 과학",
-     "inds_scls_nm": "번역/통역 서비스업",
-     "adong_nm": "인계동",
-     "road_addr": "경기도 수원시 팔달구 경수대로466번길 58",
-     "region_key": "수원시"
-    },
-    {
-     "bizes_nm": "(A) 산모피아 이천광주여주",
-     "inds_lcls_nm": "과학·기술",
-     "inds_mcls_nm": "기타 전문 과학",
-     "inds_scls_nm": "번역/통역 서비스업",
-     "adong_nm": "마장면",
-     "road_addr": "경기도 이천시 마장면 중부대로644번길 133-28",
-     "region_key": "icheon"
-    },
-    {
-     "bizes_nm": "(AR)아름다운학원",
-     "inds_lcls_nm": "교육",
-     "inds_mcls_nm": "일반 교육",
-     "inds_scls_nm": "입시·교과학원",
-     "adong_nm": "송포동",
-     "road_addr": "경기도 고양시 일산서구 대화로 136",
-     "region_key": "goyang"
-    },
-    {
-     "bizes_nm": "(ATTO)아토커피 양주옥정점",
-     "inds_lcls_nm": "음식",
-     "inds_mcls_nm": "비알코올",
-     "inds_scls_nm": "카페",
-     "adong_nm": "옥정2동",
-     "road_addr": "경기도 양주시 옥정동로5가길 15",
-     "region_key": "yangju"
-    },
-    {
-     "bizes_nm": "(DOB)구리역점",
-     "inds_lcls_nm": "수리·개인",
-     "inds_mcls_nm": "이용·미용",
-     "inds_scls_nm": "미용실",
-     "adong_nm": "동구동",
-     "road_addr": "경기도 구리시 건원대로 36",
-     "region_key": "guri"
-    },
-    {
-     "bizes_nm": "(G BOXING) 야당점",
-     "inds_lcls_nm": "예술·스포츠",
-     "inds_mcls_nm": "스포츠 서비스",
-     "inds_scls_nm": "헬스장",
-     "adong_nm": "운정3동",
-     "road_addr": "경기도 파주시 경의로1004번길 37",
-     "region_key": "paju"
-    },
-    {
-     "bizes_nm": "(KSA) 유노점프 줄넘기클럽",
-     "inds_lcls_nm": "교육",
-     "inds_mcls_nm": "일반 교육",
-     "inds_scls_nm": "입시·교과학원",
-     "adong_nm": "감북동",
-     "road_addr": "경기도 하남시 감일순환로 55",
-     "region_key": "hanam"
-    },
-    {
-     "bizes_nm": "(Lumen)루멘",
-     "inds_lcls_nm": "소매",
-     "inds_mcls_nm": "기타 상품 소매",
-     "inds_scls_nm": "그 외 기타 상품 전문 소매업",
-     "adong_nm": "인창동",
-     "road_addr": "경기도 구리시 경춘로 239",
-     "region_key": "guri"
-    },
-    {
-     "bizes_nm": "(MMA)마루수학학원",
-     "inds_lcls_nm": "교육",
-     "inds_mcls_nm": "일반 교육",
-     "inds_scls_nm": "입시·교과학원",
-     "adong_nm": "일산3동",
-     "road_addr": "경기도 고양시 일산서구 후곡로 19",
-     "region_key": "goyang"
-    },
-    {
-     "bizes_nm": "(Murmur)멀멀",
-     "inds_lcls_nm": "수리·개인",
-     "inds_mcls_nm": "이용·미용",
-     "inds_scls_nm": "미용실",
-     "adong_nm": "중리동",
-     "road_addr": "경기도 이천시 서희로 45",
-     "region_key": "icheon"
-    },
-    {
-     "bizes_nm": "(No.1감자탕",
-     "inds_lcls_nm": "음식",
-     "inds_mcls_nm": "한식",
-     "inds_scls_nm": "국/탕/찌개류",
-     "adong_nm": "원천동",
-     "road_addr": "경기도 수원시 영통구 삼성로 274",
-     "region_key": "수원시"
-    },
-    {
-     "bizes_nm": "(Nura poledance) 누라폴댄스",
-     "inds_lcls_nm": "예술·스포츠",
-     "inds_mcls_nm": "스포츠 서비스",
-     "inds_scls_nm": "헬스장",
-     "adong_nm": "초지동",
-     "road_addr": "경기도 안산시 단원구 광덕1로 64",
-     "region_key": "ansan"
-    },
-    {
-     "bizes_nm": "(PBA)당구클럽",
-     "inds_lcls_nm": "예술·스포츠",
-     "inds_mcls_nm": "스포츠 서비스",
-     "inds_scls_nm": "당구장",
-     "adong_nm": "구운동",
-     "road_addr": "경기도 수원시 권선구 구운로 53-1",
-     "region_key": "수원시"
-    },
-    {
-     "bizes_nm": "(S)요가학원",
-     "inds_lcls_nm": "교육",
-     "inds_mcls_nm": "기타 교육",
-     "inds_scls_nm": "요가/필라테스 학원",
-     "adong_nm": "죽전1동",
-     "road_addr": "경기도 용인시 수지구 대지로 43",
-     "region_key": "yongin"
-    },
-    {
-     "bizes_nm": "(SB)에스비엘이디(LED)",
-     "inds_lcls_nm": "소매",
-     "inds_mcls_nm": "기타 생활용품 소매",
-     "inds_scls_nm": "전기용품/조명장치 소매업",
-     "adong_nm": "교하동",
-     "road_addr": "경기도 파주시 당하길 5",
-     "region_key": "paju"
-    },
-    {
-     "bizes_nm": "(SC)배드민턴 센터",
-     "inds_lcls_nm": "예술·스포츠",
-     "inds_mcls_nm": "스포츠 서비스",
-     "inds_scls_nm": "헬스장",
-     "adong_nm": "호원1동",
-     "road_addr": "경기도 의정부시 평화로243번길 126",
-     "region_key": "uijeongbu"
-    },
-    {
-     "bizes_nm": "(SK현대공인중개사사무소",
-     "inds_lcls_nm": "부동산",
-     "inds_mcls_nm": "부동산 서비스",
-     "inds_scls_nm": "부동산 중개/대리업",
-     "adong_nm": "행신2동",
-     "road_addr": "경기도 고양시 덕양구 무원로6번길 36",
-     "region_key": "goyang"
-    },
-    {
-     "bizes_nm": "(SM)당구장",
-     "inds_lcls_nm": "예술·스포츠",
-     "inds_mcls_nm": "스포츠 서비스",
-     "inds_scls_nm": "당구장",
-     "adong_nm": "역곡3동",
-     "road_addr": "경기도 부천시 소사구 경인로 509",
-     "region_key": "bucheon"
-    },
-    {
-     "bizes_nm": "(SN)축구클럽 명학점",
-     "inds_lcls_nm": "예술·스포츠",
-     "inds_mcls_nm": "스포츠 서비스",
-     "inds_scls_nm": "헬스장",
-     "adong_nm": "충훈동",
-     "road_addr": "경기도 안양시 만안구 와룡로28번길 7",
-     "region_key": "anyang"
-    },
-    {
-     "bizes_nm": "(T)헤어",
-     "inds_lcls_nm": "수리·개인",
-     "inds_mcls_nm": "이용·미용",
-     "inds_scls_nm": "미용실",
-     "adong_nm": "호원2동",
-     "road_addr": "경기도 의정부시 외미로 91",
-     "region_key": "uijeongbu"
-    },
-    {
-     "bizes_nm": "(THE)조은난원",
-     "inds_lcls_nm": "소매",
-     "inds_mcls_nm": "식물 소매",
-     "inds_scls_nm": "꽃집",
-     "adong_nm": "행주동",
-     "road_addr": "경기도 고양시 덕양구 행주로 8-76",
-     "region_key": "goyang"
-    },
-    {
-     "bizes_nm": "(The) 정 브런치카페",
-     "inds_lcls_nm": "음식",
-     "inds_mcls_nm": "한식",
-     "inds_scls_nm": "백반/한정식",
-     "adong_nm": "청평면",
-     "road_addr": "경기도 가평군 청평면 시장중앙로3번길 8",
-     "region_key": "gapyeong"
-    },
-    {
-     "bizes_nm": "(The)한점",
-     "inds_lcls_nm": "음식",
-     "inds_mcls_nm": "한식",
-     "inds_scls_nm": "백반/한정식",
-     "adong_nm": "동백2동",
-     "road_addr": "경기도 용인시 기흥구 동백중앙로 283",
-     "region_key": "yongin"
-    },
-    {
-     "bizes_nm": "(US)등산 운동용품 만물",
-     "inds_lcls_nm": "소매",
-     "inds_mcls_nm": "오락용품 소매",
-     "inds_scls_nm": "운동용품 소매업",
-     "adong_nm": "화도읍",
-     "road_addr": "경기도 남양주시 화도읍 경춘로 1790",
-     "region_key": "namyangju"
-    },
-    {
-     "bizes_nm": "(경기)봄빛베스트 안양산후도우미",
-     "inds_lcls_nm": "과학·기술",
-     "inds_mcls_nm": "기타 전문 과학",
-     "inds_scls_nm": "번역/통역 서비스업",
-     "adong_nm": "관양동",
-     "road_addr": "경기도 안양시 동안구 관악대로 343",
-     "region_key": "anyang"
-    },
-    {
-     "bizes_nm": "(나이스",
-     "inds_lcls_nm": "소매",
-     "inds_mcls_nm": "오락용품 소매",
-     "inds_scls_nm": "운동용품 소매업",
-     "adong_nm": "일죽면",
-     "road_addr": "경기도 안성시 일죽면 주래본죽로 368",
-     "region_key": "anseong"
-    },
-    {
-     "bizes_nm": "(노브랜드용인삼가점",
+     "bizes_nm": "농민마트",
      "inds_lcls_nm": "소매",
      "inds_mcls_nm": "종합 소매",
      "inds_scls_nm": "슈퍼마켓",
-     "adong_nm": "삼가동",
-     "road_addr": "경기도 용인시 처인구 중부대로 1162",
-     "region_key": "yongin"
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 기배로30번길 5-9",
+     "region_key": "화성시"
     },
     {
-     "bizes_nm": "(놀러와)가수서인서라이브",
+     "bizes_nm": "웰치경기",
+     "inds_lcls_nm": "소매",
+     "inds_mcls_nm": "철물·건설자재 소매",
+     "inds_scls_nm": "철물/공구 소매업",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 배양남길50번길 5",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "사계절에어컨",
+     "inds_lcls_nm": "소매",
+     "inds_mcls_nm": "가전·통신 소매",
+     "inds_scls_nm": "가전제품 소매업",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 융건로 182",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "리모시스수원대",
+     "inds_lcls_nm": "수리·개인",
+     "inds_mcls_nm": "자동차 수리·세차",
+     "inds_scls_nm": "자동차 정비소",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 융건로 47-12",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "조이민턴아카데미",
+     "inds_lcls_nm": "교육",
+     "inds_mcls_nm": "기타 교육",
+     "inds_scls_nm": "요가/필라테스 학원",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 융건로 71",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "타이어컴퍼니",
+     "inds_lcls_nm": "수리·개인",
+     "inds_mcls_nm": "자동차 수리·세차",
+     "inds_scls_nm": "자동차 정비소",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 효행로 229-6",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "보보헤어클럽",
+     "inds_lcls_nm": "수리·개인",
+     "inds_mcls_nm": "이용·미용",
+     "inds_scls_nm": "미용실",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 효행로 287",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "행복한신일공인중개사사무소",
+     "inds_lcls_nm": "부동산",
+     "inds_mcls_nm": "부동산 서비스",
+     "inds_scls_nm": "부동산 중개/대리업",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 효행로291번길 24",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "위메이크에이지경영연구원",
+     "inds_lcls_nm": "과학·기술",
+     "inds_mcls_nm": "본사·경영 컨설팅",
+     "inds_scls_nm": "경영 컨설팅업",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 배양남길 75-2",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "요거프레소화성기안",
+     "inds_lcls_nm": "음식",
+     "inds_mcls_nm": "비알코올",
+     "inds_scls_nm": "카페",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 융건로 99",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "나라뷰티",
+     "inds_lcls_nm": "수리·개인",
+     "inds_mcls_nm": "이용·미용",
+     "inds_scls_nm": "피부 관리실",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 효행로265번길 4",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "우리동네",
+     "inds_lcls_nm": "음식",
+     "inds_mcls_nm": "한식",
+     "inds_scls_nm": "백반/한정식",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 기배로 174",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "신데렐라",
+     "inds_lcls_nm": "수리·개인",
+     "inds_mcls_nm": "이용·미용",
+     "inds_scls_nm": "미용실",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 효행로265번길 14",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "신미주세탁소",
+     "inds_lcls_nm": "수리·개인",
+     "inds_mcls_nm": "세탁",
+     "inds_scls_nm": "세탁소",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 융건로 91",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "대신카센타",
+     "inds_lcls_nm": "수리·개인",
+     "inds_mcls_nm": "자동차 수리·세차",
+     "inds_scls_nm": "자동차 정비소",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 융건로 193",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "샘물청중앙제일총판,동원샘물,크리스탈샘물,김피디서울음향Sound",
+     "inds_lcls_nm": "소매",
+     "inds_mcls_nm": "음료 소매",
+     "inds_scls_nm": "생수/음료 소매업",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 기안동로 13",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "산내들밥집",
+     "inds_lcls_nm": "음식",
+     "inds_mcls_nm": "한식",
+     "inds_scls_nm": "백반/한정식",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 융건로 171",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "비엠헤어살롱",
+     "inds_lcls_nm": "수리·개인",
+     "inds_mcls_nm": "이용·미용",
+     "inds_scls_nm": "미용실",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 효행로 229-6",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "황토공인중개사사무소",
+     "inds_lcls_nm": "부동산",
+     "inds_mcls_nm": "부동산 서비스",
+     "inds_scls_nm": "부동산 중개/대리업",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 효행로 237",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "한일자동차공업사",
+     "inds_lcls_nm": "수리·개인",
+     "inds_mcls_nm": "자동차 수리·세차",
+     "inds_scls_nm": "자동차 정비소",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 융건로 35",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "배양석유",
+     "inds_lcls_nm": "소매",
+     "inds_mcls_nm": "연료 소매",
+     "inds_scls_nm": "가정용 연료 소매업",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 배양남길50번길 2",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "필건축사사무소",
+     "inds_lcls_nm": "과학·기술",
+     "inds_mcls_nm": "기술 서비스",
+     "inds_scls_nm": "건축 설계 및 관련 서비스업",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 기배로 79",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "해림박금자공인중개사사무소",
+     "inds_lcls_nm": "부동산",
+     "inds_mcls_nm": "부동산 서비스",
+     "inds_scls_nm": "부동산 중개/대리업",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 융건로 21",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "테마건축사사무소",
+     "inds_lcls_nm": "과학·기술",
+     "inds_mcls_nm": "기술 서비스",
+     "inds_scls_nm": "건축 설계 및 관련 서비스업",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 기배로 79",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "수원공인중개사사무소",
+     "inds_lcls_nm": "부동산",
+     "inds_mcls_nm": "부동산 서비스",
+     "inds_scls_nm": "부동산 중개/대리업",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 기배로 93",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "화성종합피아노",
+     "inds_lcls_nm": "소매",
+     "inds_mcls_nm": "기타 생활용품 소매",
+     "inds_scls_nm": "악기 소매업",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 기안길 16",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "착한카프라자",
+     "inds_lcls_nm": "수리·개인",
+     "inds_mcls_nm": "자동차 수리·세차",
+     "inds_scls_nm": "자동차 정비소",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 기안남로 60",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "비비큐",
+     "inds_lcls_nm": "음식",
+     "inds_mcls_nm": "기타 간이",
+     "inds_scls_nm": "치킨",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 효행로 287",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "업소명없음",
+     "inds_lcls_nm": "수리·개인",
+     "inds_mcls_nm": "자동차 수리·세차",
+     "inds_scls_nm": "자동차 정비소",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 기배로 67",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "금빛헤어닥터",
+     "inds_lcls_nm": "수리·개인",
+     "inds_mcls_nm": "이용·미용",
+     "inds_scls_nm": "미용실",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 융건로 91",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "기안문구，분식",
+     "inds_lcls_nm": "소매",
+     "inds_mcls_nm": "오락용품 소매",
+     "inds_scls_nm": "문구/회화용품 소매업",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 기안길 25",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "현대세탁용역",
+     "inds_lcls_nm": "수리·개인",
+     "inds_mcls_nm": "세탁",
+     "inds_scls_nm": "세탁소",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 배양북길32번길 19",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "건축사사무소반석엔지니어링",
+     "inds_lcls_nm": "과학·기술",
+     "inds_mcls_nm": "기술 서비스",
+     "inds_scls_nm": "건축 설계 및 관련 서비스업",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 효행로 241",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "광도플러스공인중개사",
+     "inds_lcls_nm": "부동산",
+     "inds_mcls_nm": "부동산 서비스",
+     "inds_scls_nm": "부동산 중개/대리업",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 효행로 229-9",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "제이비헤어",
+     "inds_lcls_nm": "수리·개인",
+     "inds_mcls_nm": "이용·미용",
+     "inds_scls_nm": "미용실",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 융건로 98",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "업소명없음",
+     "inds_lcls_nm": "예술·스포츠",
+     "inds_mcls_nm": "유원지·오락",
+     "inds_scls_nm": "PC방",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 효행로 241",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "델리킹",
      "inds_lcls_nm": "음식",
      "inds_mcls_nm": "주점",
      "inds_scls_nm": "요리 주점",
-     "adong_nm": "관고동",
-     "road_addr": "경기도 이천시 설봉로58번길 7",
-     "region_key": "icheon"
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 효행로 241",
+     "region_key": "화성시"
     },
     {
-     "bizes_nm": "(대원",
+     "bizes_nm": "렌탈세븐",
      "inds_lcls_nm": "시설관리·임대",
-     "inds_mcls_nm": "청소·방제",
-     "inds_scls_nm": "건축물 일반 청소업",
-     "adong_nm": "안양4동",
-     "road_addr": "경기도 안양시 만안구 양화로14번길 22",
-     "region_key": "anyang"
+     "inds_mcls_nm": "가정용품 대여",
+     "inds_scls_nm": "기타 개인/가정용품 대여업",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 융건로172번길 8-6",
+     "region_key": "화성시"
     },
     {
-     "bizes_nm": "(디오)",
+     "bizes_nm": "사천",
+     "inds_lcls_nm": "음식",
+     "inds_mcls_nm": "중식",
+     "inds_scls_nm": "중국집",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 효행로265번길 17",
+     "region_key": "화성시"
+    },
+    {
+     "bizes_nm": "코디헤어",
      "inds_lcls_nm": "수리·개인",
      "inds_mcls_nm": "이용·미용",
-     "inds_scls_nm": "네일숍",
-     "adong_nm": "성복동",
-     "road_addr": "경기도 용인시 수지구 성복2로 166",
-     "region_key": "yongin"
+     "inds_scls_nm": "미용실",
+     "adong_nm": "기배동",
+     "road_addr": "경기도 화성시 효행구 융건로 91",
+     "region_key": "화성시"
     }
    ]
   },
@@ -406,7 +407,7 @@
    "label": "업종별 점포수",
    "icon": "📊",
    "source": "상가정보 집계",
-   "total": 33317,
+   "total": 1644,
    "sample_n": 40,
    "columns": [
     {
@@ -436,280 +437,280 @@
      "inds_cls_nm": "음식",
      "level": "lcls",
      "store_count": 377,
-     "region_key": "hwaseong"
-    },
-    {
-     "adm_cd": "41115730",
-     "inds_cls_nm": "음식",
-     "level": "lcls",
-     "store_count": 354,
-     "region_key": "수원시"
-    },
-    {
-     "adm_cd": "41450610",
-     "inds_cls_nm": "음식",
-     "level": "lcls",
-     "store_count": 335,
-     "region_key": "hanam"
+     "region_key": "화성시"
     },
     {
      "adm_cd": "41597550",
      "inds_cls_nm": "음식",
      "level": "lcls",
      "store_count": 304,
-     "region_key": "hwaseong"
+     "region_key": "화성시"
     },
     {
      "adm_cd": "41597560",
      "inds_cls_nm": "음식",
      "level": "lcls",
      "store_count": 267,
-     "region_key": "hwaseong"
+     "region_key": "화성시"
     },
     {
      "adm_cd": "41597570",
      "inds_cls_nm": "음식",
      "level": "lcls",
      "store_count": 262,
-     "region_key": "hwaseong"
-    },
-    {
-     "adm_cd": "41650250",
-     "inds_cls_nm": "음식",
-     "level": "lcls",
-     "store_count": 257,
-     "region_key": "pocheon"
-    },
-    {
-     "adm_cd": "41150510",
-     "inds_cls_nm": "음식",
-     "level": "lcls",
-     "store_count": 235,
-     "region_key": "uijeongbu"
-    },
-    {
-     "adm_cd": "41630580",
-     "inds_cls_nm": "음식",
-     "level": "lcls",
-     "store_count": 232,
-     "region_key": "yangju"
+     "region_key": "화성시"
     },
     {
      "adm_cd": "41597550",
      "inds_cls_nm": "소매",
      "level": "lcls",
      "store_count": 221,
-     "region_key": "hwaseong"
+     "region_key": "화성시"
     },
     {
      "adm_cd": "41597510",
      "inds_cls_nm": "한식",
      "level": "mcls",
      "store_count": 203,
-     "region_key": "hwaseong"
+     "region_key": "화성시"
     },
     {
      "adm_cd": "41597510",
      "inds_cls_nm": "교육",
      "level": "lcls",
      "store_count": 198,
-     "region_key": "hwaseong"
-    },
-    {
-     "adm_cd": "41610510",
-     "inds_cls_nm": "음식",
-     "level": "lcls",
-     "store_count": 196,
-     "region_key": "gwangju_gg"
-    },
-    {
-     "adm_cd": "41650250",
-     "inds_cls_nm": "소매",
-     "level": "lcls",
-     "store_count": 194,
-     "region_key": "pocheon"
-    },
-    {
-     "adm_cd": "41630520",
-     "inds_cls_nm": "음식",
-     "level": "lcls",
-     "store_count": 183,
-     "region_key": "yangju"
-    },
-    {
-     "adm_cd": "41115730",
-     "inds_cls_nm": "한식",
-     "level": "mcls",
-     "store_count": 180,
-     "region_key": "수원시"
+     "region_key": "화성시"
     },
     {
      "adm_cd": "41597550",
      "inds_cls_nm": "한식",
      "level": "mcls",
      "store_count": 175,
-     "region_key": "hwaseong"
-    },
-    {
-     "adm_cd": "41450610",
-     "inds_cls_nm": "한식",
-     "level": "mcls",
-     "store_count": 170,
-     "region_key": "hanam"
-    },
-    {
-     "adm_cd": "41360256",
-     "inds_cls_nm": "음식",
-     "level": "lcls",
-     "store_count": 169,
-     "region_key": "namyangju"
-    },
-    {
-     "adm_cd": "41450610",
-     "inds_cls_nm": "소매",
-     "level": "lcls",
-     "store_count": 166,
-     "region_key": "hanam"
-    },
-    {
-     "adm_cd": "41310570",
-     "inds_cls_nm": "음식",
-     "level": "lcls",
-     "store_count": 163,
-     "region_key": "guri"
+     "region_key": "화성시"
     },
     {
      "adm_cd": "41597570",
      "inds_cls_nm": "교육",
      "level": "lcls",
      "store_count": 163,
-     "region_key": "hwaseong"
-    },
-    {
-     "adm_cd": "41360545",
-     "inds_cls_nm": "음식",
-     "level": "lcls",
-     "store_count": 163,
-     "region_key": "namyangju"
+     "region_key": "화성시"
     },
     {
      "adm_cd": "41597510",
      "inds_cls_nm": "소매",
      "level": "lcls",
      "store_count": 158,
-     "region_key": "hwaseong"
-    },
-    {
-     "adm_cd": "41570570",
-     "inds_cls_nm": "음식",
-     "level": "lcls",
-     "store_count": 155,
-     "region_key": "gimpo"
-    },
-    {
-     "adm_cd": "41220660",
-     "inds_cls_nm": "음식",
-     "level": "lcls",
-     "store_count": 151,
-     "region_key": "pyeongtaek"
-    },
-    {
-     "adm_cd": "41115660",
-     "inds_cls_nm": "음식",
-     "level": "lcls",
-     "store_count": 151,
-     "region_key": "수원시"
-    },
-    {
-     "adm_cd": "41670510",
-     "inds_cls_nm": "음식",
-     "level": "lcls",
-     "store_count": 151,
-     "region_key": "yeoju"
-    },
-    {
-     "adm_cd": "41115740",
-     "inds_cls_nm": "음식",
-     "level": "lcls",
-     "store_count": 149,
-     "region_key": "수원시"
+     "region_key": "화성시"
     },
     {
      "adm_cd": "41597510",
      "inds_cls_nm": "백반/한정식",
      "level": "scls",
      "store_count": 147,
-     "region_key": "hwaseong"
+     "region_key": "화성시"
     },
     {
      "adm_cd": "41597510",
      "inds_cls_nm": "일반 교육",
      "level": "mcls",
      "store_count": 145,
-     "region_key": "hwaseong"
+     "region_key": "화성시"
     },
     {
      "adm_cd": "41597510",
      "inds_cls_nm": "입시·교과학원",
      "level": "scls",
      "store_count": 145,
-     "region_key": "hwaseong"
-    },
-    {
-     "adm_cd": "41820250",
-     "inds_cls_nm": "음식",
-     "level": "lcls",
-     "store_count": 144,
-     "region_key": "gapyeong"
-    },
-    {
-     "adm_cd": "41360570",
-     "inds_cls_nm": "음식",
-     "level": "lcls",
-     "store_count": 144,
-     "region_key": "namyangju"
-    },
-    {
-     "adm_cd": "11680640",
-     "inds_cls_nm": "음식",
-     "level": "lcls",
-     "store_count": 139,
-     "region_key": "강남구"
+     "region_key": "화성시"
     },
     {
      "adm_cd": "41597560",
      "inds_cls_nm": "한식",
      "level": "mcls",
      "store_count": 139,
-     "region_key": "hwaseong"
+     "region_key": "화성시"
     },
     {
      "adm_cd": "41370523",
      "inds_cls_nm": "음식",
      "level": "lcls",
      "store_count": 139,
-     "region_key": "osan"
+     "region_key": "오산시"
     },
     {
      "adm_cd": "41597570",
      "inds_cls_nm": "한식",
      "level": "mcls",
      "store_count": 138,
-     "region_key": "hwaseong"
+     "region_key": "화성시"
     },
     {
-     "adm_cd": "41150520",
-     "inds_cls_nm": "음식",
-     "level": "lcls",
-     "store_count": 135,
-     "region_key": "uijeongbu"
+     "adm_cd": "41597570",
+     "inds_cls_nm": "일반 교육",
+     "level": "mcls",
+     "store_count": 128,
+     "region_key": "화성시"
     },
     {
-     "adm_cd": "41360253",
+     "adm_cd": "41597570",
+     "inds_cls_nm": "입시·교과학원",
+     "level": "scls",
+     "store_count": 128,
+     "region_key": "화성시"
+    },
+    {
+     "adm_cd": "41597550",
+     "inds_cls_nm": "백반/한정식",
+     "level": "scls",
+     "store_count": 124,
+     "region_key": "화성시"
+    },
+    {
+     "adm_cd": "41597520",
+     "inds_cls_nm": "교육",
+     "level": "lcls",
+     "store_count": 117,
+     "region_key": "화성시"
+    },
+    {
+     "adm_cd": "41597540",
+     "inds_cls_nm": "교육",
+     "level": "lcls",
+     "store_count": 115,
+     "region_key": "화성시"
+    },
+    {
+     "adm_cd": "41597590",
      "inds_cls_nm": "음식",
      "level": "lcls",
-     "store_count": 134,
-     "region_key": "namyangju"
+     "store_count": 94,
+     "region_key": "화성시"
+    },
+    {
+     "adm_cd": "41597560",
+     "inds_cls_nm": "백반/한정식",
+     "level": "scls",
+     "store_count": 94,
+     "region_key": "화성시"
+    },
+    {
+     "adm_cd": "41597520",
+     "inds_cls_nm": "일반 교육",
+     "level": "mcls",
+     "store_count": 93,
+     "region_key": "화성시"
+    },
+    {
+     "adm_cd": "41597520",
+     "inds_cls_nm": "입시·교과학원",
+     "level": "scls",
+     "store_count": 93,
+     "region_key": "화성시"
+    },
+    {
+     "adm_cd": "41597540",
+     "inds_cls_nm": "일반 교육",
+     "level": "mcls",
+     "store_count": 92,
+     "region_key": "화성시"
+    },
+    {
+     "adm_cd": "41597540",
+     "inds_cls_nm": "입시·교과학원",
+     "level": "scls",
+     "store_count": 92,
+     "region_key": "화성시"
+    },
+    {
+     "adm_cd": "41597570",
+     "inds_cls_nm": "백반/한정식",
+     "level": "scls",
+     "store_count": 92,
+     "region_key": "화성시"
+    },
+    {
+     "adm_cd": "41597550",
+     "inds_cls_nm": "교육",
+     "level": "lcls",
+     "store_count": 91,
+     "region_key": "화성시"
+    },
+    {
+     "adm_cd": "41597530",
+     "inds_cls_nm": "교육",
+     "level": "lcls",
+     "store_count": 88,
+     "region_key": "화성시"
+    },
+    {
+     "adm_cd": "41370530",
+     "inds_cls_nm": "음식",
+     "level": "lcls",
+     "store_count": 88,
+     "region_key": "오산시"
+    },
+    {
+     "adm_cd": "41597550",
+     "inds_cls_nm": "수리·개인",
+     "level": "lcls",
+     "store_count": 86,
+     "region_key": "화성시"
+    },
+    {
+     "adm_cd": "41597570",
+     "inds_cls_nm": "소매",
+     "level": "lcls",
+     "store_count": 86,
+     "region_key": "화성시"
+    },
+    {
+     "adm_cd": "41597530",
+     "inds_cls_nm": "음식",
+     "level": "lcls",
+     "store_count": 84,
+     "region_key": "화성시"
+    },
+    {
+     "adm_cd": "41597510",
+     "inds_cls_nm": "수리·개인",
+     "level": "lcls",
+     "store_count": 82,
+     "region_key": "화성시"
+    },
+    {
+     "adm_cd": "41597560",
+     "inds_cls_nm": "소매",
+     "level": "lcls",
+     "store_count": 71,
+     "region_key": "화성시"
+    },
+    {
+     "adm_cd": "41597550",
+     "inds_cls_nm": "일반 교육",
+     "level": "mcls",
+     "store_count": 71,
+     "region_key": "화성시"
+    },
+    {
+     "adm_cd": "41597550",
+     "inds_cls_nm": "입시·교과학원",
+     "level": "scls",
+     "store_count": 71,
+     "region_key": "화성시"
+    },
+    {
+     "adm_cd": "41597540",
+     "inds_cls_nm": "음식",
+     "level": "lcls",
+     "store_count": 70,
+     "region_key": "화성시"
+    },
+    {
+     "adm_cd": "41597560",
+     "inds_cls_nm": "수리·개인",
+     "level": "lcls",
+     "store_count": 68,
+     "region_key": "화성시"
     }
    ]
   },
@@ -717,8 +718,8 @@
    "name": "real_estate",
    "label": "부동산 실거래",
    "icon": "🏢",
-   "source": "국토부 실거래가 API",
-   "total": 4901,
+   "source": "국토부 실거래가 API (상업용 매매)",
+   "total": 252,
    "sample_n": 40,
    "columns": [
     {
@@ -760,800 +761,444 @@
    ],
    "rows": [
     {
-     "deal_ym": "202509",
-     "trade_type": "trade",
-     "building_type": "업무",
-     "dong_nm": "백현동",
-     "use_area": 197236.69,
-     "floor": null,
-     "deal_amount": 198204140,
-     "build_year": "2021",
-     "region_key": "성남시"
-    },
-    {
-     "deal_ym": "202507",
-     "trade_type": "trade",
-     "building_type": "제1종근린생활",
-     "dong_nm": "삼성동",
-     "use_area": 30912.95,
-     "floor": null,
-     "deal_amount": 44350000,
-     "build_year": null,
-     "region_key": "강남구"
-    },
-    {
-     "deal_ym": "202511",
-     "trade_type": "trade",
-     "building_type": "업무",
-     "dong_nm": "삼평동",
-     "use_area": 49679.1,
-     "floor": null,
-     "deal_amount": 36070000,
-     "build_year": "2013",
-     "region_key": "성남시"
-    },
-    {
-     "deal_ym": "202508",
-     "trade_type": "trade",
-     "building_type": "제2종근린생활",
-     "dong_nm": "삼성동",
-     "use_area": 20126.44,
-     "floor": null,
-     "deal_amount": 21246470,
-     "build_year": null,
-     "region_key": "강남구"
-    },
-    {
-     "deal_ym": "202507",
-     "trade_type": "trade",
-     "building_type": "제2종근린생활",
-     "dong_nm": "삼성동",
-     "use_area": 20126.44,
-     "floor": null,
-     "deal_amount": 21246470,
-     "build_year": null,
-     "region_key": "강남구"
-    },
-    {
-     "deal_ym": "202511",
-     "trade_type": "trade",
-     "building_type": "교육연구",
-     "dong_nm": "삼성동",
-     "use_area": 15453.23,
-     "floor": null,
-     "deal_amount": 20300000,
-     "build_year": "1996",
-     "region_key": "강남구"
-    },
-    {
-     "deal_ym": "202603",
-     "trade_type": "trade",
-     "building_type": "업무",
-     "dong_nm": "역삼동",
-     "use_area": 14256.64,
-     "floor": null,
-     "deal_amount": 18500000,
-     "build_year": "1985",
-     "region_key": "강남구"
-    },
-    {
-     "deal_ym": "202508",
-     "trade_type": "trade",
-     "building_type": "제1종근린생활",
-     "dong_nm": "논현동",
-     "use_area": 4384.15,
-     "floor": null,
-     "deal_amount": 14250000,
-     "build_year": null,
-     "region_key": "강남구"
-    },
-    {
-     "deal_ym": "202604",
-     "trade_type": "trade",
-     "building_type": "업무",
-     "dong_nm": "동천동",
-     "use_area": 3808.7,
-     "floor": null,
-     "deal_amount": 14034945,
-     "build_year": "2001",
-     "region_key": "yongin"
-    },
-    {
-     "deal_ym": "202512",
-     "trade_type": "trade",
-     "building_type": "업무",
-     "dong_nm": "논현동",
-     "use_area": 12035.53,
-     "floor": null,
-     "deal_amount": 12940000,
-     "build_year": "2019",
-     "region_key": "강남구"
-    },
-    {
-     "deal_ym": "202512",
-     "trade_type": "trade",
-     "building_type": "업무",
-     "dong_nm": "삼평동",
-     "use_area": 15537.21,
-     "floor": null,
-     "deal_amount": 11750000,
-     "build_year": "2013",
-     "region_key": "성남시"
-    },
-    {
-     "deal_ym": "202512",
-     "trade_type": "trade",
-     "building_type": "업무",
-     "dong_nm": "삼평동",
-     "use_area": 15537.21,
-     "floor": null,
-     "deal_amount": 11703600,
-     "build_year": "2013",
-     "region_key": "성남시"
-    },
-    {
-     "deal_ym": "202601",
-     "trade_type": "trade",
-     "building_type": "제1종근린생활",
-     "dong_nm": "신사동",
-     "use_area": 6353.81,
-     "floor": null,
-     "deal_amount": 10650000,
-     "build_year": "1989",
-     "region_key": "강남구"
-    },
-    {
-     "deal_ym": "202604",
-     "trade_type": "trade",
-     "building_type": null,
-     "dong_nm": "논현동",
-     "use_area": 6373.01,
-     "floor": null,
-     "deal_amount": 9500000,
-     "build_year": "1985",
-     "region_key": "강남구"
-    },
-    {
      "deal_ym": "202604",
      "trade_type": "trade",
      "building_type": "숙박",
-     "dong_nm": "논현동",
-     "use_area": 6373.01,
+     "dong_nm": "오산동",
+     "use_area": 1025.03,
      "floor": null,
-     "deal_amount": 9500000,
-     "build_year": "1985",
-     "region_key": "강남구"
-    },
-    {
-     "deal_ym": "202511",
-     "trade_type": "trade",
-     "building_type": "제2종근린생활",
-     "dong_nm": "논현동",
-     "use_area": 1026.68,
-     "floor": null,
-     "deal_amount": 7056926,
-     "build_year": "1984",
-     "region_key": "강남구"
-    },
-    {
-     "deal_ym": "202507",
-     "trade_type": "trade",
-     "building_type": "교육연구",
-     "dong_nm": "대치동",
-     "use_area": 6701.32,
-     "floor": null,
-     "deal_amount": 7000000,
-     "build_year": "1994",
-     "region_key": "강남구"
-    },
-    {
-     "deal_ym": "202511",
-     "trade_type": "trade",
-     "building_type": "제1종근린생활",
-     "dong_nm": "논현동",
-     "use_area": 1256.7,
-     "floor": null,
-     "deal_amount": 6943074,
-     "build_year": "1990",
-     "region_key": "강남구"
-    },
-    {
-     "deal_ym": "202510",
-     "trade_type": "trade",
-     "building_type": "업무",
-     "dong_nm": "서현동",
-     "use_area": 5397.52,
-     "floor": null,
-     "deal_amount": 6380000,
-     "build_year": "1998",
-     "region_key": "성남시"
-    },
-    {
-     "deal_ym": "202601",
-     "trade_type": "trade",
-     "building_type": "업무",
-     "dong_nm": "신사동",
-     "use_area": 2984.66,
-     "floor": null,
-     "deal_amount": 6120000,
-     "build_year": "1985",
-     "region_key": "강남구"
-    },
-    {
-     "deal_ym": "202507",
-     "trade_type": "trade",
-     "building_type": "제2종근린생활",
-     "dong_nm": "청담동",
-     "use_area": 987.1,
-     "floor": null,
-     "deal_amount": 5900000,
-     "build_year": "1989",
-     "region_key": "강남구"
-    },
-    {
-     "deal_ym": "202507",
-     "trade_type": "trade",
-     "building_type": "제2종근린생활",
-     "dong_nm": "청담동",
-     "use_area": 987.1,
-     "floor": null,
-     "deal_amount": 5900000,
-     "build_year": "1989",
-     "region_key": "강남구"
-    },
-    {
-     "deal_ym": "202507",
-     "trade_type": "trade",
-     "building_type": "제2종근린생활",
-     "dong_nm": "삼성동",
-     "use_area": 1198.67,
-     "floor": null,
-     "deal_amount": 5800000,
-     "build_year": "1989",
-     "region_key": "강남구"
-    },
-    {
-     "deal_ym": "202508",
-     "trade_type": "trade",
-     "building_type": "교육연구",
-     "dong_nm": "대치동",
-     "use_area": 4191.45,
-     "floor": null,
-     "deal_amount": 5400000,
-     "build_year": "1994",
-     "region_key": "강남구"
-    },
-    {
-     "deal_ym": "202604",
-     "trade_type": "trade",
-     "building_type": null,
-     "dong_nm": "삼성동",
-     "use_area": 3132.24,
-     "floor": null,
-     "deal_amount": 5350000,
-     "build_year": "1992",
-     "region_key": "강남구"
-    },
-    {
-     "deal_ym": "202604",
-     "trade_type": "trade",
-     "building_type": "기타",
-     "dong_nm": "삼성동",
-     "use_area": 3132.24,
-     "floor": null,
-     "deal_amount": 5350000,
-     "build_year": "1992",
-     "region_key": "강남구"
-    },
-    {
-     "deal_ym": "202602",
-     "trade_type": "trade",
-     "building_type": "기타",
-     "dong_nm": "논현동",
-     "use_area": 2581.57,
-     "floor": null,
-     "deal_amount": 5300000,
-     "build_year": "1983",
-     "region_key": "강남구"
-    },
-    {
-     "deal_ym": "202509",
-     "trade_type": "trade",
-     "building_type": "업무",
-     "dong_nm": "삼평동",
-     "use_area": 7166.12,
-     "floor": null,
-     "deal_amount": 5060000,
-     "build_year": "2014",
-     "region_key": "성남시"
-    },
-    {
-     "deal_ym": "202511",
-     "trade_type": "trade",
-     "building_type": "제2종근린생활",
-     "dong_nm": "삼성동",
-     "use_area": 2390.55,
-     "floor": null,
-     "deal_amount": 5050000,
+     "deal_amount": 510700,
      "build_year": "1991",
-     "region_key": "강남구"
+     "region_key": "오산시"
     },
     {
-     "deal_ym": "202508",
+     "deal_ym": "202605",
      "trade_type": "trade",
-     "building_type": "업무",
-     "dong_nm": "삼성동",
-     "use_area": 4586.55,
+     "building_type": "기타",
+     "dong_nm": "향남읍 화리현리",
+     "use_area": 1607.34,
      "floor": null,
-     "deal_amount": 4950000,
-     "build_year": "1993",
-     "region_key": "강남구"
+     "deal_amount": 455000,
+     "build_year": "2021",
+     "region_key": "화성시"
     },
     {
-     "deal_ym": "202512",
-     "trade_type": "trade",
-     "building_type": "제2종근린생활",
-     "dong_nm": "대치동",
-     "use_area": 1300.96,
-     "floor": null,
-     "deal_amount": 4700000,
-     "build_year": "1993",
-     "region_key": "강남구"
-    },
-    {
-     "deal_ym": "202601",
+     "deal_ym": "202605",
      "trade_type": "trade",
      "building_type": "제1종근린생활",
-     "dong_nm": "신사동",
-     "use_area": 4831.38,
+     "dong_nm": "반송동",
+     "use_area": 803.09,
      "floor": null,
-     "deal_amount": 4470000,
-     "build_year": "1996",
-     "region_key": "강남구"
+     "deal_amount": 406000,
+     "build_year": "2012",
+     "region_key": "화성시"
     },
     {
-     "deal_ym": "202508",
+     "deal_ym": "202604",
      "trade_type": "trade",
-     "building_type": "교육연구",
-     "dong_nm": "대치동",
-     "use_area": 4240.14,
+     "building_type": "기타",
+     "dong_nm": "안녕동",
+     "use_area": 1186.98,
      "floor": null,
-     "deal_amount": 4400000,
+     "deal_amount": 385000,
+     "build_year": null,
+     "region_key": "화성시"
+    },
+    {
+     "deal_ym": "202604",
+     "trade_type": "trade",
+     "building_type": "업무",
+     "dong_nm": "남양읍 남양리",
+     "use_area": 1171.53,
+     "floor": null,
+     "deal_amount": 295000,
+     "build_year": "2015",
+     "region_key": "화성시"
+    },
+    {
+     "deal_ym": "202606",
+     "trade_type": "trade",
+     "building_type": "숙박",
+     "dong_nm": "세교동",
+     "use_area": 1129.51,
+     "floor": null,
+     "deal_amount": 236000,
+     "build_year": "2002",
+     "region_key": "오산시"
+    },
+    {
+     "deal_ym": "202605",
+     "trade_type": "trade",
+     "building_type": "제2종근린생활",
+     "dong_nm": "남양읍 남양리",
+     "use_area": 999.91,
+     "floor": null,
+     "deal_amount": 197809,
+     "build_year": "2022",
+     "region_key": "화성시"
+    },
+    {
+     "deal_ym": "202605",
+     "trade_type": "trade",
+     "building_type": "기타",
+     "dong_nm": "서신면 전곡리",
+     "use_area": 652.92,
+     "floor": null,
+     "deal_amount": 195000,
+     "build_year": "2024",
+     "region_key": "화성시"
+    },
+    {
+     "deal_ym": "202604",
+     "trade_type": "trade",
+     "building_type": "기타",
+     "dong_nm": "원동",
+     "use_area": 634.58,
+     "floor": "5",
+     "deal_amount": 190000,
+     "build_year": "2007",
+     "region_key": "오산시"
+    },
+    {
+     "deal_ym": "202604",
+     "trade_type": "trade",
+     "building_type": "제2종근린생활",
+     "dong_nm": "궐동",
+     "use_area": 999.08,
+     "floor": null,
+     "deal_amount": 175000,
+     "build_year": "2011",
+     "region_key": "오산시"
+    },
+    {
+     "deal_ym": "202604",
+     "trade_type": "trade",
+     "building_type": "제2종근린생활",
+     "dong_nm": "정남면 문학리",
+     "use_area": 656.8,
+     "floor": null,
+     "deal_amount": 173746,
+     "build_year": "2019",
+     "region_key": "화성시"
+    },
+    {
+     "deal_ym": "202605",
+     "trade_type": "trade",
+     "building_type": "제2종근린생활",
+     "dong_nm": "서신면 상안리",
+     "use_area": 491.32,
+     "floor": null,
+     "deal_amount": 161593,
+     "build_year": "2023",
+     "region_key": "화성시"
+    },
+    {
+     "deal_ym": "202604",
+     "trade_type": "trade",
+     "building_type": "제2종근린생활",
+     "dong_nm": "정남면 문학리",
+     "use_area": 652.86,
+     "floor": null,
+     "deal_amount": 152109,
+     "build_year": "2019",
+     "region_key": "화성시"
+    },
+    {
+     "deal_ym": "202605",
+     "trade_type": "trade",
+     "building_type": "제2종근린생활",
+     "dong_nm": "서신면 상안리",
+     "use_area": 492.0,
+     "floor": null,
+     "deal_amount": 148019,
+     "build_year": "2023",
+     "region_key": "화성시"
+    },
+    {
+     "deal_ym": "202605",
+     "trade_type": "trade",
+     "building_type": "제2종근린생활",
+     "dong_nm": "오산동",
+     "use_area": 645.93,
+     "floor": null,
+     "deal_amount": 145000,
+     "build_year": null,
+     "region_key": "오산시"
+    },
+    {
+     "deal_ym": "202604",
+     "trade_type": "trade",
+     "building_type": "제2종근린생활",
+     "dong_nm": "정남면 신리",
+     "use_area": 257.0,
+     "floor": null,
+     "deal_amount": 138300,
+     "build_year": "2009",
+     "region_key": "화성시"
+    },
+    {
+     "deal_ym": "202604",
+     "trade_type": "trade",
+     "building_type": "제2종근린생활",
+     "dong_nm": "향남읍 구문천리",
+     "use_area": 364.0,
+     "floor": null,
+     "deal_amount": 137530,
+     "build_year": "2024",
+     "region_key": "화성시"
+    },
+    {
+     "deal_ym": "202606",
+     "trade_type": "trade",
+     "building_type": "제2종근린생활",
+     "dong_nm": "장안면 어은리",
+     "use_area": 324.0,
+     "floor": null,
+     "deal_amount": 135000,
+     "build_year": null,
+     "region_key": "화성시"
+    },
+    {
+     "deal_ym": "202605",
+     "trade_type": "trade",
+     "building_type": "제1종근린생활",
+     "dong_nm": "송산면 육일리",
+     "use_area": 198.0,
+     "floor": null,
+     "deal_amount": 127885,
+     "build_year": "2018",
+     "region_key": "화성시"
+    },
+    {
+     "deal_ym": "202604",
+     "trade_type": "trade",
+     "building_type": "제2종근린생활",
+     "dong_nm": "기안동",
+     "use_area": 354.2,
+     "floor": null,
+     "deal_amount": 123073,
+     "build_year": "2023",
+     "region_key": "화성시"
+    },
+    {
+     "deal_ym": "202604",
+     "trade_type": "trade",
+     "building_type": "제2종근린생활",
+     "dong_nm": "영천동",
+     "use_area": 113.82,
+     "floor": null,
+     "deal_amount": 120000,
+     "build_year": "2021",
+     "region_key": "화성시"
+    },
+    {
+     "deal_ym": "202604",
+     "trade_type": "trade",
+     "building_type": "제2종근린생활",
+     "dong_nm": "양감면 대양리",
+     "use_area": 595.0,
+     "floor": null,
+     "deal_amount": 115000,
+     "build_year": null,
+     "region_key": "화성시"
+    },
+    {
+     "deal_ym": "202604",
+     "trade_type": "trade",
+     "building_type": "제2종근린생활",
+     "dong_nm": "송산면 중송리",
+     "use_area": 198.0,
+     "floor": null,
+     "deal_amount": 113200,
+     "build_year": "2017",
+     "region_key": "화성시"
+    },
+    {
+     "deal_ym": "202604",
+     "trade_type": "trade",
+     "building_type": "제2종근린생활",
+     "dong_nm": "장안면 수촌리",
+     "use_area": 476.1,
+     "floor": null,
+     "deal_amount": 110785,
+     "build_year": "2016",
+     "region_key": "화성시"
+    },
+    {
+     "deal_ym": "202605",
+     "trade_type": "trade",
+     "building_type": "제2종근린생활",
+     "dong_nm": "양감면 대양리",
+     "use_area": 338.6,
+     "floor": null,
+     "deal_amount": 105000,
+     "build_year": "2016",
+     "region_key": "화성시"
+    },
+    {
+     "deal_ym": "202604",
+     "trade_type": "trade",
+     "building_type": "제2종근린생활",
+     "dong_nm": "진안동",
+     "use_area": 551.62,
+     "floor": null,
+     "deal_amount": 105000,
+     "build_year": "2013",
+     "region_key": "화성시"
+    },
+    {
+     "deal_ym": "202604",
+     "trade_type": "trade",
+     "building_type": "제2종근린생활",
+     "dong_nm": "외삼미동",
+     "use_area": 210.76,
+     "floor": null,
+     "deal_amount": 102100,
+     "build_year": "2023",
+     "region_key": "오산시"
+    },
+    {
+     "deal_ym": "202606",
+     "trade_type": "trade",
+     "building_type": "제2종근린생활",
+     "dong_nm": "정남면 문학리",
+     "use_area": 417.11,
+     "floor": null,
+     "deal_amount": 99149,
+     "build_year": "2018",
+     "region_key": "화성시"
+    },
+    {
+     "deal_ym": "202604",
+     "trade_type": "trade",
+     "building_type": "제2종근린생활",
+     "dong_nm": "남양읍 장덕리",
+     "use_area": 198.0,
+     "floor": null,
+     "deal_amount": 93266,
+     "build_year": "2026",
+     "region_key": "화성시"
+    },
+    {
+     "deal_ym": "202605",
+     "trade_type": "trade",
+     "building_type": "제2종근린생활",
+     "dong_nm": "반송동",
+     "use_area": 37.43,
+     "floor": "1",
+     "deal_amount": 92000,
+     "build_year": "2007",
+     "region_key": "화성시"
+    },
+    {
+     "deal_ym": "202605",
+     "trade_type": "trade",
+     "building_type": "제2종근린생활",
+     "dong_nm": "팔탄면 창곡리",
+     "use_area": 495.0,
+     "floor": null,
+     "deal_amount": 91250,
      "build_year": "2006",
-     "region_key": "강남구"
-    },
-    {
-     "deal_ym": "202512",
-     "trade_type": "trade",
-     "building_type": "교육연구",
-     "dong_nm": "대치동",
-     "use_area": 4981.99,
-     "floor": null,
-     "deal_amount": 4300000,
-     "build_year": "2004",
-     "region_key": "강남구"
-    },
-    {
-     "deal_ym": "202604",
-     "trade_type": "trade",
-     "building_type": null,
-     "dong_nm": "역삼동",
-     "use_area": 1741.8,
-     "floor": null,
-     "deal_amount": 4000000,
-     "build_year": "1984",
-     "region_key": "강남구"
+     "region_key": "화성시"
     },
     {
      "deal_ym": "202604",
      "trade_type": "trade",
      "building_type": "제2종근린생활",
-     "dong_nm": "역삼동",
-     "use_area": 1741.8,
+     "dong_nm": "남양읍 무송리",
+     "use_area": 266.0,
      "floor": null,
-     "deal_amount": 4000000,
-     "build_year": "1984",
-     "region_key": "강남구"
+     "deal_amount": 90800,
+     "build_year": "2025",
+     "region_key": "화성시"
     },
     {
-     "deal_ym": "202509",
+     "deal_ym": "202604",
      "trade_type": "trade",
-     "building_type": "교육연구",
-     "dong_nm": "삼평동",
-     "use_area": 5910.44,
+     "building_type": "제2종근린생활",
+     "dong_nm": "향남읍 증거리",
+     "use_area": 327.67,
      "floor": null,
-     "deal_amount": 3919723,
-     "build_year": "2014",
-     "region_key": "성남시"
+     "deal_amount": 89700,
+     "build_year": "2024",
+     "region_key": "화성시"
     },
     {
-     "deal_ym": "202512",
+     "deal_ym": "202605",
      "trade_type": "trade",
-     "building_type": "업무",
-     "dong_nm": "역삼동",
-     "use_area": 1590.1,
+     "building_type": "제2종근린생활",
+     "dong_nm": "정남면 망월리",
+     "use_area": 494.4,
      "floor": null,
-     "deal_amount": 3736758,
-     "build_year": "1984",
-     "region_key": "강남구"
+     "deal_amount": 89517,
+     "build_year": "2008",
+     "region_key": "화성시"
     },
     {
-     "deal_ym": "202601",
+     "deal_ym": "202604",
      "trade_type": "trade",
-     "building_type": "업무",
-     "dong_nm": "논현동",
-     "use_area": 3072.38,
+     "building_type": "제2종근린생활",
+     "dong_nm": "양감면 정문리",
+     "use_area": 189.0,
      "floor": null,
-     "deal_amount": 3650000,
-     "build_year": "1999",
-     "region_key": "강남구"
+     "deal_amount": 87000,
+     "build_year": "2019",
+     "region_key": "화성시"
     },
     {
-     "deal_ym": "202509",
+     "deal_ym": "202605",
      "trade_type": "trade",
      "building_type": "제1종근린생활",
-     "dong_nm": "논현동",
-     "use_area": 2424.56,
+     "dong_nm": "봉담읍 상리",
+     "use_area": 52.68,
+     "floor": "1",
+     "deal_amount": 86000,
+     "build_year": "2023",
+     "region_key": "화성시"
+    },
+    {
+     "deal_ym": "202604",
+     "trade_type": "trade",
+     "building_type": "제2종근린생활",
+     "dong_nm": "봉담읍 왕림리",
+     "use_area": 395.12,
      "floor": null,
-     "deal_amount": 3650000,
-     "build_year": "1994",
-     "region_key": "강남구"
-    }
-   ]
-  },
-  {
-   "name": "commercial_analysis",
-   "label": "상권분석 지표",
-   "icon": "📈",
-   "source": "서울 골목상권 분석서비스",
-   "total": 1628,
-   "sample_n": 40,
-   "columns": [
-    {
-     "col": "adm_cd",
-     "label": "행정동코드"
+     "deal_amount": 84608,
+     "build_year": "2004",
+     "region_key": "화성시"
     },
     {
-     "col": "indicator",
-     "label": "지표"
+     "deal_ym": "202604",
+     "trade_type": "trade",
+     "building_type": "제2종근린생활",
+     "dong_nm": "봉담읍 왕림리",
+     "use_area": 395.12,
+     "floor": null,
+     "deal_amount": 84608,
+     "build_year": null,
+     "region_key": "화성시"
     },
     {
-     "col": "period",
-     "label": "기준시점"
+     "deal_ym": "202605",
+     "trade_type": "trade",
+     "building_type": "제2종근린생활",
+     "dong_nm": "정남면 발산리",
+     "use_area": 195.12,
+     "floor": null,
+     "deal_amount": 82800,
+     "build_year": "2006",
+     "region_key": "화성시"
     },
     {
-     "col": "value",
-     "label": "값"
-    },
-    {
-     "col": "unit",
-     "label": "단위"
-    },
-    {
-     "col": "region_key",
-     "label": "지역"
-    }
-   ],
-   "rows": [
-    {
-     "adm_cd": "3001496",
-     "indicator": "개업점포수",
-     "period": "20261",
-     "value": 11.0,
-     "unit": "개",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3001496",
-     "indicator": "개업점포수",
-     "period": "20261",
-     "value": 11.0,
-     "unit": "개",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3001496",
-     "indicator": "유동인구",
-     "period": "20261",
-     "value": 105884.0,
-     "unit": "명",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3001496",
-     "indicator": "유동인구",
-     "period": "20261",
-     "value": 105884.0,
-     "unit": "명",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3001496",
-     "indicator": "점포수",
-     "period": "20261",
-     "value": 1013.0,
-     "unit": "개",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3001496",
-     "indicator": "점포수",
-     "period": "20261",
-     "value": 1013.0,
-     "unit": "개",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3001496",
-     "indicator": "추정매출",
-     "period": "20261",
-     "value": 102796512111.0,
-     "unit": "원",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3001496",
-     "indicator": "추정매출",
-     "period": "20261",
-     "value": 102796512111.0,
-     "unit": "원",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3001496",
-     "indicator": "추정매출건수",
-     "period": "20261",
-     "value": 3315038.0,
-     "unit": "건",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3001496",
-     "indicator": "추정매출건수",
-     "period": "20261",
-     "value": 3315038.0,
-     "unit": "건",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3001496",
-     "indicator": "폐업률",
-     "period": "20261",
-     "value": 1.7769002961500493,
-     "unit": "%",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3001496",
-     "indicator": "폐업률",
-     "period": "20261",
-     "value": 1.7769002961500493,
-     "unit": "%",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3001496",
-     "indicator": "폐업점포수",
-     "period": "20261",
-     "value": 18.0,
-     "unit": "개",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3001496",
-     "indicator": "폐업점포수",
-     "period": "20261",
-     "value": 18.0,
-     "unit": "개",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3001496",
-     "indicator": "프랜차이즈점포수",
-     "period": "20261",
-     "value": 107.0,
-     "unit": "개",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3001496",
-     "indicator": "프랜차이즈점포수",
-     "period": "20261",
-     "value": 107.0,
-     "unit": "개",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3110949",
-     "indicator": "개업점포수",
-     "period": "20261",
-     "value": 5.0,
-     "unit": "개",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3110949",
-     "indicator": "개업점포수",
-     "period": "20261",
-     "value": 5.0,
-     "unit": "개",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3110949",
-     "indicator": "유동인구",
-     "period": "20261",
-     "value": 307930.0,
-     "unit": "명",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3110949",
-     "indicator": "유동인구",
-     "period": "20261",
-     "value": 307930.0,
-     "unit": "명",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3110949",
-     "indicator": "점포수",
-     "period": "20261",
-     "value": 146.0,
-     "unit": "개",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3110949",
-     "indicator": "점포수",
-     "period": "20261",
-     "value": 146.0,
-     "unit": "개",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3110949",
-     "indicator": "추정매출",
-     "period": "20261",
-     "value": 2671138367.0,
-     "unit": "원",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3110949",
-     "indicator": "추정매출",
-     "period": "20261",
-     "value": 2671138367.0,
-     "unit": "원",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3110949",
-     "indicator": "추정매출건수",
-     "period": "20261",
-     "value": 38252.0,
-     "unit": "건",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3110949",
-     "indicator": "추정매출건수",
-     "period": "20261",
-     "value": 38252.0,
-     "unit": "건",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3110949",
-     "indicator": "폐업률",
-     "period": "20261",
-     "value": 3.4246575342465753,
-     "unit": "%",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3110949",
-     "indicator": "폐업률",
-     "period": "20261",
-     "value": 3.4246575342465753,
-     "unit": "%",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3110949",
-     "indicator": "폐업점포수",
-     "period": "20261",
-     "value": 5.0,
-     "unit": "개",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3110949",
-     "indicator": "폐업점포수",
-     "period": "20261",
-     "value": 5.0,
-     "unit": "개",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3110949",
-     "indicator": "프랜차이즈점포수",
-     "period": "20261",
-     "value": 2.0,
-     "unit": "개",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3110949",
-     "indicator": "프랜차이즈점포수",
-     "period": "20261",
-     "value": 2.0,
-     "unit": "개",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3110950",
-     "indicator": "개업점포수",
-     "period": "20261",
-     "value": 3.0,
-     "unit": "개",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3110950",
-     "indicator": "개업점포수",
-     "period": "20261",
-     "value": 3.0,
-     "unit": "개",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3110950",
-     "indicator": "유동인구",
-     "period": "20261",
-     "value": 156990.0,
-     "unit": "명",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3110950",
-     "indicator": "유동인구",
-     "period": "20261",
-     "value": 156990.0,
-     "unit": "명",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3110950",
-     "indicator": "점포수",
-     "period": "20261",
-     "value": 34.0,
-     "unit": "개",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3110950",
-     "indicator": "점포수",
-     "period": "20261",
-     "value": 34.0,
-     "unit": "개",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3110950",
-     "indicator": "폐업률",
-     "period": "20261",
-     "value": 5.88235294117647,
-     "unit": "%",
-     "region_key": "강남구"
-    },
-    {
-     "adm_cd": "3110950",
-     "indicator": "폐업률",
-     "period": "20261",
-     "value": 5.88235294117647,
-     "unit": "%",
-     "region_key": "강남구"
+     "deal_ym": "202604",
+     "trade_type": "trade",
+     "building_type": "제2종근린생활",
+     "dong_nm": "팔탄면 구장리",
+     "use_area": 160.0,
+     "floor": null,
+     "deal_amount": 81500,
+     "build_year": "2026",
+     "region_key": "화성시"
     }
    ]
   },
@@ -1562,8 +1207,8 @@
    "label": "인구·가구",
    "icon": "👥",
    "source": "통계청 SGIS 오픈API",
-   "total": 652,
-   "sample_n": 40,
+   "total": 37,
+   "sample_n": 37,
    "columns": [
     {
      "col": "adm_cd",
@@ -1592,36 +1237,12 @@
    ],
    "rows": [
     {
-     "adm_cd": "31130111",
-     "year": 2022,
-     "population": 114147,
-     "households": 44168,
-     "avg_age": 42.8,
-     "region_key": "namyangju"
-    },
-    {
      "adm_cd": "31240140",
      "year": 2022,
      "population": 98926,
      "households": 37135,
      "avg_age": 37.5,
-     "region_key": "hwaseong"
-    },
-    {
-     "adm_cd": "31130580",
-     "year": 2022,
-     "population": 96398,
-     "households": 36281,
-     "avg_age": 37.7,
-     "region_key": "namyangju"
-    },
-    {
-     "adm_cd": "31130120",
-     "year": 2022,
-     "population": 95988,
-     "households": 35703,
-     "avg_age": 42.3,
-     "region_key": "namyangju"
+     "region_key": "화성시"
     },
     {
      "adm_cd": "31240120",
@@ -1629,103 +1250,7 @@
      "population": 89766,
      "households": 34547,
      "avg_age": 39.2,
-     "region_key": "hwaseong"
-    },
-    {
-     "adm_cd": "31130570",
-     "year": 2022,
-     "population": 77058,
-     "households": 31549,
-     "avg_age": 40.5,
-     "region_key": "namyangju"
-    },
-    {
-     "adm_cd": "31200513",
-     "year": 2022,
-     "population": 66748,
-     "households": 24834,
-     "avg_age": 38.3,
-     "region_key": "paju"
-    },
-    {
-     "adm_cd": "31220110",
-     "year": 2022,
-     "population": 61017,
-     "households": 24131,
-     "avg_age": 40.0,
-     "region_key": "anseong"
-    },
-    {
-     "adm_cd": "31200570",
-     "year": 2022,
-     "population": 59933,
-     "households": 22254,
-     "avg_age": 37.0,
-     "region_key": "paju"
-    },
-    {
-     "adm_cd": "31230540",
-     "year": 2022,
-     "population": 58928,
-     "households": 21567,
-     "avg_age": 40.2,
-     "region_key": "gimpo"
-    },
-    {
-     "adm_cd": "31230610",
-     "year": 2022,
-     "population": 57731,
-     "households": 20840,
-     "avg_age": 41.6,
-     "region_key": "gimpo"
-    },
-    {
-     "adm_cd": "31070650",
-     "year": 2022,
-     "population": 57599,
-     "households": 21618,
-     "avg_age": 38.9,
-     "region_key": "pyeongtaek"
-    },
-    {
-     "adm_cd": "31130110",
-     "year": 2022,
-     "population": 56128,
-     "households": 20416,
-     "avg_age": 44.4,
-     "region_key": "namyangju"
-    },
-    {
-     "adm_cd": "31210540",
-     "year": 2022,
-     "population": 56030,
-     "households": 19993,
-     "avg_age": 36.7,
-     "region_key": "icheon"
-    },
-    {
-     "adm_cd": "31130510",
-     "year": 2022,
-     "population": 55384,
-     "households": 20327,
-     "avg_age": 40.4,
-     "region_key": "namyangju"
-    },
-    {
-     "adm_cd": "31150540",
-     "year": 2022,
-     "population": 55094,
-     "households": 20123,
-     "avg_age": 38.0,
-     "region_key": "siheung"
-    },
-    {
-     "adm_cd": "31014620",
-     "year": 2022,
-     "population": 53352,
-     "households": 21026,
-     "avg_age": 35.5,
-     "region_key": "수원시"
+     "region_key": "화성시"
     },
     {
      "adm_cd": "31240691",
@@ -1733,47 +1258,7 @@
      "population": 52910,
      "households": 20617,
      "avg_age": 34.3,
-     "region_key": "hwaseong"
-    },
-    {
-     "adm_cd": "31092660",
-     "year": 2022,
-     "population": 52571,
-     "households": 18939,
-     "avg_age": 40.7,
-     "region_key": "ansan"
-    },
-    {
-     "adm_cd": "31180620",
-     "year": 2022,
-     "population": 52074,
-     "households": 25968,
-     "avg_age": 37.6,
-     "region_key": "hanam"
-    },
-    {
-     "adm_cd": "31130150",
-     "year": 2022,
-     "population": 51877,
-     "households": 19687,
-     "avg_age": 43.3,
-     "region_key": "namyangju"
-    },
-    {
-     "adm_cd": "31193590",
-     "year": 2022,
-     "population": 51125,
-     "households": 17454,
-     "avg_age": 42.2,
-     "region_key": "yongin"
-    },
-    {
-     "adm_cd": "31070670",
-     "year": 2022,
-     "population": 51054,
-     "households": 20234,
-     "avg_age": 38.3,
-     "region_key": "pyeongtaek"
+     "region_key": "화성시"
     },
     {
      "adm_cd": "31240640",
@@ -1781,15 +1266,7 @@
      "population": 50959,
      "households": 16027,
      "avg_age": 33.0,
-     "region_key": "hwaseong"
-    },
-    {
-     "adm_cd": "31260520",
-     "year": 2022,
-     "population": 50003,
-     "households": 18975,
-     "avg_age": 41.7,
-     "region_key": "yangju"
+     "region_key": "화성시"
     },
     {
      "adm_cd": "31240610",
@@ -1797,15 +1274,7 @@
      "population": 49744,
      "households": 19786,
      "avg_age": 35.1,
-     "region_key": "hwaseong"
-    },
-    {
-     "adm_cd": "31250120",
-     "year": 2022,
-     "population": 49729,
-     "households": 18588,
-     "avg_age": 42.4,
-     "region_key": "gwangju_gg"
+     "region_key": "화성시"
     },
     {
      "adm_cd": "31240150",
@@ -1813,15 +1282,7 @@
      "population": 49385,
      "households": 20184,
      "avg_age": 40.3,
-     "region_key": "hwaseong"
-    },
-    {
-     "adm_cd": "31193560",
-     "year": 2022,
-     "population": 48909,
-     "households": 18213,
-     "avg_age": 39.6,
-     "region_key": "yongin"
+     "region_key": "화성시"
     },
     {
      "adm_cd": "31140581",
@@ -1829,79 +1290,7 @@
      "population": 47910,
      "households": 19077,
      "avg_age": 40.3,
-     "region_key": "osan"
-    },
-    {
-     "adm_cd": "31230600",
-     "year": 2022,
-     "population": 47804,
-     "households": 17441,
-     "avg_age": 37.4,
-     "region_key": "gimpo"
-    },
-    {
-     "adm_cd": "31200110",
-     "year": 2022,
-     "population": 47055,
-     "households": 18984,
-     "avg_age": 42.1,
-     "region_key": "paju"
-    },
-    {
-     "adm_cd": "31270110",
-     "year": 2022,
-     "population": 46633,
-     "households": 18311,
-     "avg_age": 43.7,
-     "region_key": "pocheon"
-    },
-    {
-     "adm_cd": "31012640",
-     "year": 2022,
-     "population": 46391,
-     "households": 16462,
-     "avg_age": 38.9,
-     "region_key": "수원시"
-    },
-    {
-     "adm_cd": "31230120",
-     "year": 2022,
-     "population": 46264,
-     "households": 16754,
-     "avg_age": 39.0,
-     "region_key": "gimpo"
-    },
-    {
-     "adm_cd": "31070120",
-     "year": 2022,
-     "population": 45879,
-     "households": 17582,
-     "avg_age": 40.4,
-     "region_key": "pyeongtaek"
-    },
-    {
-     "adm_cd": "31030710",
-     "year": 2022,
-     "population": 45687,
-     "households": 17202,
-     "avg_age": 37.9,
-     "region_key": "uijeongbu"
-    },
-    {
-     "adm_cd": "31180630",
-     "year": 2022,
-     "population": 45574,
-     "households": 17553,
-     "avg_age": 39.1,
-     "region_key": "hanam"
-    },
-    {
-     "adm_cd": "31030580",
-     "year": 2022,
-     "population": 45453,
-     "households": 17887,
-     "avg_age": 43.5,
-     "region_key": "uijeongbu"
+     "region_key": "오산시"
     },
     {
      "adm_cd": "31240650",
@@ -1909,319 +1298,239 @@
      "population": 45175,
      "households": 19709,
      "avg_age": 35.3,
-     "region_key": "hwaseong"
-    }
-   ]
-  },
-  {
-   "name": "trdar_area",
-   "label": "상권 영역",
-   "icon": "🗺️",
-   "source": "서울 골목상권(상권영역)",
-   "total": 103,
-   "sample_n": 40,
-   "columns": [
-    {
-     "col": "trdar_nm",
-     "label": "상권명"
+     "region_key": "화성시"
     },
     {
-     "col": "trdar_se_nm",
-     "label": "상권구분"
+     "adm_cd": "31240520",
+     "year": 2022,
+     "population": 44297,
+     "households": 19869,
+     "avg_age": 38.8,
+     "region_key": "화성시"
     },
     {
-     "col": "signgu_nm",
-     "label": "자치구"
+     "adm_cd": "31240620",
+     "year": 2022,
+     "population": 41087,
+     "households": 16859,
+     "avg_age": 34.9,
+     "region_key": "화성시"
     },
     {
-     "col": "adstrd_nm",
-     "label": "행정동"
+     "adm_cd": "31240700",
+     "year": 2022,
+     "population": 40140,
+     "households": 16713,
+     "avg_age": 34.1,
+     "region_key": "화성시"
     },
     {
-     "col": "region_key",
-     "label": "지역"
-    }
-   ],
-   "rows": [
-    {
-     "trdar_nm": "가로수길",
-     "trdar_se_nm": "발달상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "신사동",
-     "region_key": "강남구"
+     "adm_cd": "31140571",
+     "year": 2022,
+     "population": 37440,
+     "households": 14936,
+     "avg_age": 39.5,
+     "region_key": "오산시"
     },
     {
-     "trdar_nm": "강남 마이스 관광특구",
-     "trdar_se_nm": "관광특구",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "삼성1동",
-     "region_key": "강남구"
+     "adm_cd": "31140510",
+     "year": 2022,
+     "population": 37207,
+     "households": 13311,
+     "avg_age": 39.9,
+     "region_key": "오산시"
     },
     {
-     "trdar_nm": "강남개포시장",
-     "trdar_se_nm": "전통시장",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "개포2동",
-     "region_key": "강남구"
+     "adm_cd": "31240530",
+     "year": 2022,
+     "population": 36652,
+     "households": 14837,
+     "avg_age": 37.5,
+     "region_key": "화성시"
     },
     {
-     "trdar_nm": "강남구보훈회관",
-     "trdar_se_nm": "골목상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "삼성2동",
-     "region_key": "강남구"
+     "adm_cd": "31240600",
+     "year": 2022,
+     "population": 34146,
+     "households": 11365,
+     "avg_age": 36.1,
+     "region_key": "화성시"
     },
     {
-     "trdar_nm": "강남구청(청담역_8번, 강남세무서)",
-     "trdar_se_nm": "발달상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "청담동",
-     "region_key": "강남구"
+     "adm_cd": "31240720",
+     "year": 2022,
+     "population": 34032,
+     "households": 11928,
+     "avg_age": 32.8,
+     "region_key": "화성시"
     },
     {
-     "trdar_nm": "강남구청역",
-     "trdar_se_nm": "발달상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "논현2동",
-     "region_key": "강남구"
+     "adm_cd": "31240710",
+     "year": 2022,
+     "population": 32491,
+     "households": 12075,
+     "avg_age": 33.1,
+     "region_key": "화성시"
     },
     {
-     "trdar_nm": "강남구청역 2번",
-     "trdar_se_nm": "골목상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "논현2동",
-     "region_key": "강남구"
+     "adm_cd": "31140550",
+     "year": 2022,
+     "population": 32268,
+     "households": 12162,
+     "avg_age": 37.7,
+     "region_key": "오산시"
     },
     {
-     "trdar_nm": "강남구청역 4번",
-     "trdar_se_nm": "골목상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "청담동",
-     "region_key": "강남구"
+     "adm_cd": "31240550",
+     "year": 2022,
+     "population": 30640,
+     "households": 10348,
+     "avg_age": 36.6,
+     "region_key": "화성시"
     },
     {
-     "trdar_nm": "강남세브란스병원미래의학연구센터",
-     "trdar_se_nm": "골목상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "역삼2동",
-     "region_key": "강남구"
+     "adm_cd": "31140530",
+     "year": 2022,
+     "population": 27747,
+     "households": 12963,
+     "avg_age": 41.3,
+     "region_key": "오산시"
     },
     {
-     "trdar_nm": "강남시장(강남구 강남시장)",
-     "trdar_se_nm": "전통시장",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "신사동",
-     "region_key": "강남구"
+     "adm_cd": "31240670",
+     "year": 2022,
+     "population": 24975,
+     "households": 8168,
+     "avg_age": 33.8,
+     "region_key": "화성시"
     },
     {
-     "trdar_nm": "강남언주로",
-     "trdar_se_nm": "전통시장",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "역삼1동",
-     "region_key": "강남구"
+     "adm_cd": "31140572",
+     "year": 2022,
+     "population": 24579,
+     "households": 9549,
+     "avg_age": 39.1,
+     "region_key": "오산시"
     },
     {
-     "trdar_nm": "강남을지병원",
-     "trdar_se_nm": "발달상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "압구정동",
-     "region_key": "강남구"
+     "adm_cd": "31240570",
+     "year": 2022,
+     "population": 23966,
+     "households": 9846,
+     "avg_age": 43.0,
+     "region_key": "화성시"
     },
     {
-     "trdar_nm": "개나리아파트",
-     "trdar_se_nm": "발달상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "역삼2동",
-     "region_key": "강남구"
+     "adm_cd": "31240540",
+     "year": 2022,
+     "population": 23216,
+     "households": 8362,
+     "avg_age": 38.3,
+     "region_key": "화성시"
     },
     {
-     "trdar_nm": "개포고등학교",
-     "trdar_se_nm": "골목상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "개포2동",
-     "region_key": "강남구"
+     "adm_cd": "31240130",
+     "year": 2022,
+     "population": 20837,
+     "households": 7793,
+     "avg_age": 46.2,
+     "region_key": "화성시"
     },
     {
-     "trdar_nm": "개포지구대옆",
-     "trdar_se_nm": "골목상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "개포4동",
-     "region_key": "강남구"
+     "adm_cd": "31140582",
+     "year": 2022,
+     "population": 18736,
+     "households": 7627,
+     "avg_age": 38.1,
+     "region_key": "오산시"
     },
     {
-     "trdar_nm": "개포지하차도 북측",
-     "trdar_se_nm": "골목상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "개포1동",
-     "region_key": "강남구"
+     "adm_cd": "31140560",
+     "year": 2022,
+     "population": 16709,
+     "households": 7367,
+     "avg_age": 40.6,
+     "region_key": "오산시"
     },
     {
-     "trdar_nm": "경기고교사거리(경기고교앞사거리)",
-     "trdar_se_nm": "발달상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "청담동",
-     "region_key": "강남구"
+     "adm_cd": "31240560",
+     "year": 2022,
+     "population": 16140,
+     "households": 5705,
+     "avg_age": 39.8,
+     "region_key": "화성시"
     },
     {
-     "trdar_nm": "경복아파트교차로",
-     "trdar_se_nm": "발달상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "역삼1동",
-     "region_key": "강남구"
+     "adm_cd": "31240380",
+     "year": 2022,
+     "population": 14657,
+     "households": 5069,
+     "avg_age": 45.1,
+     "region_key": "화성시"
     },
     {
-     "trdar_nm": "구역삼세무서",
-     "trdar_se_nm": "발달상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "역삼1동",
-     "region_key": "강남구"
+     "adm_cd": "31240390",
+     "year": 2022,
+     "population": 14098,
+     "households": 4640,
+     "avg_age": 46.5,
+     "region_key": "화성시"
     },
     {
-     "trdar_nm": "국기원",
-     "trdar_se_nm": "골목상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "역삼1동",
-     "region_key": "강남구"
+     "adm_cd": "31240430",
+     "year": 2022,
+     "population": 13868,
+     "households": 5321,
+     "avg_age": 45.9,
+     "region_key": "화성시"
     },
     {
-     "trdar_nm": "국립국악고등학교",
-     "trdar_se_nm": "골목상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "개포4동",
-     "region_key": "강남구"
+     "adm_cd": "31240360",
+     "year": 2022,
+     "population": 11622,
+     "households": 4717,
+     "avg_age": 49.6,
+     "region_key": "화성시"
     },
     {
-     "trdar_nm": "국악고교사거리",
-     "trdar_se_nm": "골목상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "개포4동",
-     "region_key": "강남구"
+     "adm_cd": "31240350",
+     "year": 2022,
+     "population": 9507,
+     "households": 3430,
+     "avg_age": 45.6,
+     "region_key": "화성시"
     },
     {
-     "trdar_nm": "논현2동주민센터",
-     "trdar_se_nm": "골목상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "논현2동",
-     "region_key": "강남구"
+     "adm_cd": "31240370",
+     "year": 2022,
+     "population": 7886,
+     "households": 3222,
+     "avg_age": 51.7,
+     "region_key": "화성시"
     },
     {
-     "trdar_nm": "논현로18길",
-     "trdar_se_nm": "골목상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "개포4동",
-     "region_key": "강남구"
+     "adm_cd": "31240330",
+     "year": 2022,
+     "population": 7376,
+     "households": 3336,
+     "avg_age": 48.4,
+     "region_key": "화성시"
     },
     {
-     "trdar_nm": "논현목련공원",
-     "trdar_se_nm": "골목상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "논현1동",
-     "region_key": "강남구"
+     "adm_cd": "31240310",
+     "year": 2022,
+     "population": 6803,
+     "households": 3040,
+     "avg_age": 51.4,
+     "region_key": "화성시"
     },
     {
-     "trdar_nm": "논현역",
-     "trdar_se_nm": "발달상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "논현1동",
-     "region_key": "강남구"
-    },
-    {
-     "trdar_nm": "논현역 7번",
-     "trdar_se_nm": "골목상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "논현1동",
-     "region_key": "강남구"
-    },
-    {
-     "trdar_nm": "논현종합시장",
-     "trdar_se_nm": "전통시장",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "논현2동",
-     "region_key": "강남구"
-    },
-    {
-     "trdar_nm": "논현초등학교",
-     "trdar_se_nm": "골목상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "논현1동",
-     "region_key": "강남구"
-    },
-    {
-     "trdar_nm": "대왕초등학교(세곡동사거리서남측)",
-     "trdar_se_nm": "골목상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "세곡동",
-     "region_key": "강남구"
-    },
-    {
-     "trdar_nm": "대청초등학교",
-     "trdar_se_nm": "골목상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "일원1동",
-     "region_key": "강남구"
-    },
-    {
-     "trdar_nm": "대치2동주민센터",
-     "trdar_se_nm": "골목상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "대치2동",
-     "region_key": "강남구"
-    },
-    {
-     "trdar_nm": "대치동아우편취급국",
-     "trdar_se_nm": "골목상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "대치4동",
-     "region_key": "강남구"
-    },
-    {
-     "trdar_nm": "대치사거리",
-     "trdar_se_nm": "발달상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "대치4동",
-     "region_key": "강남구"
-    },
-    {
-     "trdar_nm": "대치역",
-     "trdar_se_nm": "발달상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "대치1동",
-     "region_key": "강남구"
-    },
-    {
-     "trdar_nm": "도곡1동",
-     "trdar_se_nm": "발달상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "역삼1동",
-     "region_key": "강남구"
-    },
-    {
-     "trdar_nm": "도곡2동주민센터(대치중학교)",
-     "trdar_se_nm": "골목상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "도곡2동",
-     "region_key": "강남구"
-    },
-    {
-     "trdar_nm": "도곡시장",
-     "trdar_se_nm": "전통시장",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "역삼2동",
-     "region_key": "강남구"
-    },
-    {
-     "trdar_nm": "도곡초등학교",
-     "trdar_se_nm": "골목상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "대치4동",
-     "region_key": "강남구"
-    },
-    {
-     "trdar_nm": "도산공원교차로",
-     "trdar_se_nm": "발달상권",
-     "signgu_nm": "강남구",
-     "adstrd_nm": "압구정동",
-     "region_key": "강남구"
+     "adm_cd": "31240420",
+     "year": 2022,
+     "population": 6171,
+     "households": 1894,
+     "avg_age": 45.1,
+     "region_key": "화성시"
     }
    ]
   }
@@ -2231,142 +1540,120 @@
    {
     "label": "상가업소",
     "icon": "🏪",
-    "total": 740793,
+    "total": 72227,
     "source": "소상공인공단 상가정보 API"
    },
    {
     "label": "업종별 점포수",
     "icon": "📊",
-    "total": 33317,
+    "total": 1644,
     "source": "상가정보 집계"
    },
    {
     "label": "부동산 실거래",
     "icon": "🏢",
-    "total": 4901,
-    "source": "국토부 실거래가 API"
-   },
-   {
-    "label": "상권분석 지표",
-    "icon": "📈",
-    "total": 1628,
-    "source": "서울 골목상권 분석서비스"
+    "total": 252,
+    "source": "국토부 실거래가 API (상업용 매매)"
    },
    {
     "label": "인구·가구",
     "icon": "👥",
-    "total": 652,
+    "total": 37,
     "source": "통계청 SGIS 오픈API"
-   },
-   {
-    "label": "상권 영역",
-    "icon": "🗺️",
-    "total": 103,
-    "source": "서울 골목상권(상권영역)"
    }
   ],
   "by_region": [
    {
-    "label": "강남구",
-    "count": 66239
+    "label": "동탄(화성 내)",
+    "count": 24207
    },
    {
-    "label": "hwaseong",
-    "count": 61217
+    "label": "화성 그 외",
+    "count": 37010
    },
    {
-    "label": "수원시",
-    "count": 55939
+    "label": "오산시",
+    "count": 11010
+   }
+  ],
+  "by_dongtan": [
+   {
+    "label": "동탄5동",
+    "count": 5662
    },
    {
-    "label": "goyang",
-    "count": 49391
+    "label": "동탄1동",
+    "count": 5500
    },
    {
-    "label": "yongin",
-    "count": 46022
+    "label": "동탄6동",
+    "count": 3335
    },
    {
-    "label": "성남시",
-    "count": 45171
+    "label": "동탄7동",
+    "count": 3296
    },
    {
-    "label": "bucheon",
-    "count": 36555
+    "label": "동탄3동",
+    "count": 1661
    },
    {
-    "label": "ansan",
-    "count": 33338
+    "label": "동탄4동",
+    "count": 1357
    },
    {
-    "label": "namyangju",
-    "count": 32612
+    "label": "동탄2동",
+    "count": 1339
    },
    {
-    "label": "pyeongtaek",
-    "count": 31929
+    "label": "동탄9동",
+    "count": 1068
    },
    {
-    "label": "anyang",
-    "count": 28184
-   },
-   {
-    "label": "siheung",
-    "count": 24327
-   },
-   {
-    "label": "gimpo",
-    "count": 24061
-   },
-   {
-    "label": "paju",
-    "count": 23812
-   },
-   {
-    "label": "uijeongbu",
-    "count": 20295
+    "label": "동탄8동",
+    "count": 989
    }
   ],
   "by_industry": [
    {
     "label": "음식",
-    "count": 199675
+    "count": 21048
    },
    {
     "label": "소매",
-    "count": 165396
-   },
-   {
-    "label": "과학·기술",
-    "count": 92316
-   },
-   {
-    "label": "수리·개인",
-    "count": 85062
+    "count": 15811
    },
    {
     "label": "교육",
-    "count": 68559
+    "count": 8906
    },
    {
-    "label": "부동산",
-    "count": 33956
+    "label": "수리·개인",
+    "count": 7992
+   },
+   {
+    "label": "과학·기술",
+    "count": 6749
    },
    {
     "label": "예술·스포츠",
-    "count": 32615
+    "count": 3459
+   },
+   {
+    "label": "부동산",
+    "count": 3068
    },
    {
     "label": "시설관리·임대",
-    "count": 30488
+    "count": 2571
    },
    {
     "label": "보건의료",
-    "count": 21757
+    "count": 1930
    },
    {
     "label": "숙박",
-    "count": 10969
+    "count": 693
    }
   ]
  }

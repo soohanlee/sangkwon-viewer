@@ -63,15 +63,15 @@
 <body>
 <header>
   <div class="wrap">
-    <h1>상권분석 공개데이터 뷰어 <span class="badge">DEMO · 샘플</span></h1>
-    <div class="sub">공공 오픈 API로 수집한 상권 데이터의 <b style="color:var(--txt)">형태를 보여주는 미리보기</b>입니다. 전체 데이터가 아니라 테이블별 대표 샘플만 표시합니다.</div>
+    <h1>상권분석 공개데이터 뷰어 <span class="badge">동탄 · 화성 · 오산</span></h1>
+    <div class="sub">SV 주 관리지역(동탄·화성시·오산시)의 공공 오픈 API 수집 데이터 <b style="color:var(--txt)">미리보기</b>입니다. 전체가 아니라 테이블별 대표 샘플만 표시합니다.</div>
   </div>
 </header>
 
 <div class="wrap">
   <div class="note">
-    📌 <b>이 사이트는 공개(오픈) 데이터만 보여줍니다.</b> 출처: 소상공인시장진흥공단 상가정보 · 국토교통부 실거래가 · 통계청 SGIS · 서울 열린데이터광장 골목상권.
-    개인정보나 비공개 정보는 포함되지 않으며, 표시되는 건 전체 중 일부 샘플입니다.
+    📌 <b>동탄·화성·오산의 공개(오픈) 데이터만 보여줍니다.</b> 출처: 소상공인시장진흥공단 상가정보 · 국토교통부 실거래가 · 통계청 SGIS.
+    개인정보·비공개 정보는 없으며 전체 중 일부 샘플입니다. 경기 지역은 상권 축(유동인구·추정매출·폐업률)이 무료 오픈API로 제공되지 않아 이 데모에는 없습니다.
   </div>
 
   <div id="app"><div class="loading">데이터 불러오는 중…</div></div>
@@ -99,6 +99,8 @@ function render(d){
   const s=d.summary;
   const maxR=Math.max(1,...s.by_region.map(x=>x.count));
   const maxI=Math.max(1,...s.by_industry.map(x=>x.count));
+  const dong=s.by_dongtan||[];
+  const maxD=Math.max(1,...dong.map(x=>x.count));
 
   const cards = s.cards.map(c=>`
     <div class="card"><div class="ic">${c.icon}</div>
@@ -116,6 +118,16 @@ function render(d){
       <div class="bar g" style="width:${x.count/maxI*100}%"></div>
       <div class="val">${fmt(x.count)}</div></div>`).join("");
 
+  const dongBars = dong.map(x=>`
+    <div class="bar-row"><div class="name">${x.label}</div>
+      <div class="bar" style="width:${x.count/maxD*100}%"></div>
+      <div class="val">${fmt(x.count)}</div></div>`).join("");
+  const dongSection = dong.length ? `
+    <section>
+      <div class="sec-title">동탄 행정동별 상가 수 <span style="color:var(--muted);font-weight:400;font-size:12px">(SV 주 관리지역)</span></div>
+      <div class="bars">${dongBars}</div>
+    </section>` : "";
+
   const tabs = d.tables.map(t=>`
     <div class="tab${t.name===active?' active':''}" data-t="${t.name}">
       ${t.icon} ${t.label}<span class="cnt">${fmt(t.total)}</span></div>`).join("");
@@ -129,6 +141,7 @@ function render(d){
       <div><div class="sec-title">지역별 상가 분포</div><div class="bars">${regionBars}</div></div>
       <div><div class="sec-title">업종 대분류 TOP 10</div><div class="bars">${indBars}</div></div>
     </section>
+    ${dongSection}
     <section>
       <div class="sec-title">데이터 샘플 미리보기</div>
       <div class="tabs">${tabs}</div>
